@@ -321,3 +321,39 @@ Tabla 5
     </tr>
     <!-- SEPARACION EPIC 1 -->
 </table>
+
+### 3.3 Product Backlog
+
+Figura 12
+
+*Modelo de trabajo realizado en la aplicación Pivotal Tracker para organizar todo el Product Backlog de NavEx*
+
+![product-backlog](/product-backlog.png)
+
+| #Orden | User Story ID | Titulo | Descripcion | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|-------------|--------------------------|
+| 1 | US17 | Presentación de sitio web | Como visitante del segmento gerente quiero un resumen rápido y asertivo sobre lo que ofrece el sitio web para tener una idea rápida sobre lo que ofrece el sitio web. | 1 |
+| 2 | US20 | Ir a aplicación web directamente | Como visitante del segmento gerente quiero que la pagina me permita dirigirme directamente a la aplicación web principal para ahorrar tiempo. | 1 |
+| 3 | US21 | Navegación de información | Como visitante del segmento gerente quiero información precisa sobre lo que ofrece el sitio web para tomar una desicion mejor informada. | 1 |
+| 4 | US22 | Navegación de contacto | Como visitante del segmento gerente quiero ver información de contacto del sitio creado para sentir mas confianza del sitio web. | 1 |
+| 5 | US18 | Resumen de precios | Como visitante del segmento gerente quiero una vista detallada del plan ofrecido por el sitio web para tomar una desicion de compra a conciencia. | 1 |
+| 6 | US19 | Información a pie de pagina |Como visitante del segmento gerente quiero un resumen del sitio web al final de este para no perder tiempo buscando algún apartado de mi interés. | 1 |
+| 7 | US07 | Asignación de envíos | Como gerente, quiero poder asignar envíos a mis transportistas para distribuir eficientemente los envíos. | 3 |
+| 8 | US09 | Asignación de flotas | Como gerente, quiero asignar flotas a mis transportistas para que puedan realizar encargos. | 3 |
+| 9 | US23 | Technical - eliminar transportista | Como desarrollador, quiero poder eliminar un transportista existente a través del API para mantener la integridad de la base de datos desde otras aplicaciones. | 3 |
+| 10 | US24 | Technical - Agregar transportista | Como desarrollador, quiero poder agregar un nuevo transportista a través del API para gestionar la base de datos de transportistas desde otras aplicaciones. | 3 |
+| 11 | US25 | Technical - Actualizar informacion | Como desarrollador, quiero poder actualizar la información de un transportista existente a través del API para mantener los datos actualizados desde otras aplicaciones | 3 |
+| 12 | US11 | Modificar perfil de gerente | Como gerente quiero gestionar mis datos para que estén actualizados | 3 |
+| 13 | US04 | Visualización de envíos asignados | Como transportista, quiero poder ver los envíos que me han sido asignados, incluyendo detalles sobre los envíos y destinos correspondientes para poder organizar mejor el orden de mis tareas. | 2 |
+| 14 | US10 | Gestión de inventario de flotas | Como gerente, quiero añadir nuevas flotas a mi negocio para tener un control activo de mis flotas. | 2 |
+| 15 | US01 | Visualización de paquetes entregados por un transportista | Como gerente quiero visualizar el registro de paquetes entregados por un transportista para medir rendimiento del transportista | 2 |
+| 16 | US05 | Visualización de paquetes entregados | Como transportista quiero visualizar los paquetes que he entregado para tener un comprobante de trabajo realizado | 2 |
+| 17 | US13 | Reporte de infracciones | Como transportista, quiero poder reportar infracciones vehiculares que ocurran durante mis viajes para que el gerente pueda tomar las medidas del caso. | 3 |
+| 18 | US14 | Reporte de accidentes en la carretera | Como transportista, quiero poder reportar accidentes en la carretera que ocurran durante mis viajes para que el gerente pueda organizar las futuras rutas. | 3 |
+| 19 | US15 |Reporte de problemas con el paquete | Como transportista, quiero poder reportar problemas con los paquetes que transporto durante mis viajes para que el gerente pueda reportarlo al cliente. | 3 |
+| 20 | US16 | Reporte de problemas técnicos | Como transportista, quiero poder reportar problemas técnicos que surjan durante mis viajes para que el gerente pueda resolverlo lo antes posible. | 3 |
+| 21 | US02 | Visualización de reportes de un transportista | Como gerente quiero ver los reportes hechos por mis transportistas para tomar decisiones estratégicas en los próximos envíos. | 2 |
+| 22 | US06 | Visualización de reportes realizados | Como transportista quiero visualizar los reportes que hice en mi labor para tener un historial de incidencia en mi trabajo. | 2 |
+| 23 | US03 | Visualización de envíos asignados a un transportista | Como gerente quiero ver los envíos asignados de un transportista para poder medir el rendimiento de mis empleados. | 2 |
+| 24 | US08 | Visualización de historial de envíos | Como gerente quiero ver el historial de envíos realizado para saber cuantos de estos fueron exitosos | 2 |
+| 25 | US12 | Modificar perfil de transportistas | Como transportista quiero gestionar mis datos personales para que estén actualizados | 3 |
