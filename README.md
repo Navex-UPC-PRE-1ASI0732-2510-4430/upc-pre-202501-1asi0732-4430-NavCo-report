@@ -1,56 +1,45 @@
-<p align="center">
-  <img src="imageUpc.png" alt="Logo de UPC" width="100%">
-</p>
-
 <div align="center">
 
-# <span>**Universidad Peruana de Ciencias Aplicadas**</span>  
-## FACULTAD DE INGENIERÍA
+# Informe del Trabajo Final
 
-Ciclo: 2025 - 1  
-Curso: Diseños de Experimentos de Ingeniería de Software  
-Sección: 4430  
-Docente: Juan Carlos Tinoco Licas  
+**Universidad Peruana de Ciencias Aplicadas**
 
-### “Informe del Trabajo Final”  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
-**Startup:** NavCo  
-**Producto:** Navex  
+**Universidad Peruana de Ciencias Aplicadas**
 
+**FACULTAD DE INGENIERÍA**
+
+**2025-01**
+
+**Diseños de Experimentos de Ingeniería de Software**
+
+**Sección:** 4430
+
+**Docente:** Juan Carlos Tinoco Licas
+
+**Informe del Trabajo Final**
+
+**Nombre del Startup:** NavCo
+
+**Nombre del Producto:** Navex
+
+**Integrantes:**
+
+Pinto Fuentes Rivera, Alvaro Felipe - U202213384
+
+Loarte Matos, Anthony Brahan - U20211D563
+
+Bustamante Leveau, Cameron Charllotte - U20231A804
+
+Armestar Heredia, Matias Gabriel - U20221A553
+
+Chacon Martinez, Mauricio Sebastian - U202212911
+
+
+<hr>
 <br>
-
-<table>
-  <thead>
-    <tr>
-      <th>Integrantes</th>
-      <th>Código</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Pinto Fuentes Rivera, Alvaro Felipe</td>
-      <td>U202213384</td>
-    </tr>
-    <tr>
-      <td>Loarte Matos, Anthony Brahan</td>
-      <td>U20211D563</td>
-    </tr>
-    <tr>
-      <td>Bustamante Leveau, Cameron Charllotte</td>
-      <td>U20231A804</td>
-    </tr>
-    <tr>
-      <td>Armestar Heredia, Matias Gabriel</td>
-      <td>U20221A553</td>
-    </tr>
-    <tr>
-      <td>Chacon Martinez, Mauricio Sebastian</td>
-      <td>U202212911</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+<div align="justify">
 
 **Registro de Versiones del Informe:**
 <br>
