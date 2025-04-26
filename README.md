@@ -306,3 +306,152 @@ Pasos para el despliegue
 
 - Documentar la API utilizando OpenAPI Specification para facilitar su
   integración y uso por parte de otros sistemas.
+
+## Product Implementation & Deployment
+
+### Sprint Backlogs
+
+> El Sprint está centrado en la versión inicial de nuestro servicio web,
+> priorizando las historias de usuario identificadas. Nuestro objetivo
+> principal es proporcionar a los usuarios una experiencia inicial
+> sólida al presentar una navegación intuitiva y acceso rápido a las
+> funcionalidades relevantes. Al completar las tareas asociadas a las
+> historias de usuario definidas, sentaremos una buena base para el
+> servicio web, asegurando que lo propuesto contribuya al éxito del
+> proyecto.
+
++------+----------+-----+------+-----------+-----+--------+----------+
+| > Sp | > Sprint |     |      |           |     |        |          |
+| rint | > 1      |     |      |           |     |        |          |
+| > \# |          |     |      |           |     |        |          |
++======+==========+=====+======+===========+=====+========+==========+
+| >    | > W      |     |      |           |     |        |          |
+| User | ork-Item |     |      |           |     |        |          |
+| > S  | > / Task |     |      |           |     |        |          |
+| tory |          |     |      |           |     |        |          |
++------+----------+-----+------+-----------+-----+--------+----------+
+| > Id | > Title  | >   | > T  | > De      | > E | > As   | > Status |
+|      |          |  Id | itle | scripción | sti | signed | > (To-do |
+|      |          |     |      |           | mat | > to   | > / In / |
+|      |          |     |      |           | ion |        | >        |
+|      |          |     |      |           | > ( |        |  Process |
+|      |          |     |      |           | Hou |        | > /      |
+|      |          |     |      |           | rs) |        | >        |
+|      |          |     |      |           |     |        | >        |
+|      |          |     |      |           |     |        | ToReview |
+|      |          |     |      |           |     |        | >        |
+|      |          |     |      |           |     |        | > /      |
+|      |          |     |      |           |     |        | > Done)  |
++------+----------+-----+------+-----------+-----+--------+----------+
+| >    | > Visua  | >   | > De | > Crear   | > 4 |        | > Done   |
+| US01 | lización | T01 | sarr | > una     |     |        |          |
+|      | > de     |     | ollo | >         |     |        |          |
+|      | >        |     | > de |  interfaz |     |        |          |
+|      | paquetes |     | >    | > para la |     |        |          |
+|      | > en     |     | inte | > a       |     |        |          |
+|      | tregados |     | rfaz | plicación |     |        |          |
+|      | > por un |     | > y  | > web que |     |        |          |
+|      | > trans  |     | > ló | > permita |     |        |          |
+|      | portista |     | gica | > al      |     |        |          |
+|      |          |     | >    | > gerente |     |        |          |
+|      |          |     | para | > se      |     |        |          |
+|      |          |     | > v  | leccionar |     |        |          |
+|      |          |     | isua | > un      |     |        |          |
+|      |          |     | liza | > tran    |     |        |          |
+|      |          |     | ción | sportista |     |        |          |
+|      |          |     | > de | > y       |     |        |          |
+|      |          |     | >    | > v       |     |        |          |
+|      |          |     | paqu | isualizar |     |        |          |
+|      |          |     | etes | > el      |     |        |          |
+|      |          |     | > en | >         |     |        |          |
+|      |          |     | treg |  registro |     |        |          |
+|      |          |     | ados | > de      |     |        |          |
+|      |          |     |      | >         |     |        |          |
+|      |          |     |      |  paquetes |     |        |          |
+|      |          |     |      | > que ha  |     |        |          |
+|      |          |     |      | > e       |     |        |          |
+|      |          |     |      | ntregado. |     |        |          |
++------+----------+-----+------+-----------+-----+--------+----------+
+
++------+----------+-----+------+-----------+-----+--------+----------+
+| >    | > Visua  | >   | > Im | > Crear   | > 5 | > Ma   | > Done   |
+| US04 | lización | T02 | plem | > una     |     | uricio |          |
+|      | > de     |     | enta | >         |     | >      |          |
+|      | > envíos |     | ción |  interfaz |     | Chacon |          |
+|      | > a      |     | > de | > en la   |     |        |          |
+|      | signados |     | >    | > a       |     |        |          |
+|      |          |     |  sis | plicación |     |        |          |
+|      |          |     | tema | > web     |     |        |          |
+|      |          |     | > de | > donde   |     |        |          |
+|      |          |     | > v  | > los     |     |        |          |
+|      |          |     | isua | > trans   |     |        |          |
+|      |          |     | liza | portistas |     |        |          |
+|      |          |     | ción | > puedan  |     |        |          |
+|      |          |     | > de | > ver los |     |        |          |
+|      |          |     | > en | > envíos  |     |        |          |
+|      |          |     | víos | > que les |     |        |          |
+|      |          |     | > a  | > han     |     |        |          |
+|      |          |     | sign | > sido    |     |        |          |
+|      |          |     | ados | > a       |     |        |          |
+|      |          |     |      | signados, |     |        |          |
+|      |          |     |      | > junto   |     |        |          |
+|      |          |     |      | > con     |     |        |          |
+|      |          |     |      | > todos   |     |        |          |
+|      |          |     |      | > los     |     |        |          |
+|      |          |     |      | >         |     |        |          |
+|      |          |     |      |  detalles |     |        |          |
+|      |          |     |      | > r       |     |        |          |
+|      |          |     |      | elevantes |     |        |          |
+|      |          |     |      | > (       |     |        |          |
+|      |          |     |      | destinos, |     |        |          |
+|      |          |     |      | >         |     |        |          |
+|      |          |     |      | horarios, |     |        |          |
+|      |          |     |      | > etc.).  |     |        |          |
++======+==========+=====+======+===========+=====+========+==========+
+| >    | > Visua  | >   | > De | > Crear   | > 4 |        | > Done   |
+| US06 | lización | T03 | sarr | > una     |     |        |          |
+|      | > de     |     | ollo | > sección |     |        |          |
+|      | >        |     | > de | > en      |     |        |          |
+|      | reportes |     | >    | > laa     |     |        |          |
+|      | > re     |     | inte | plicación |     |        |          |
+|      | alizados |     | rfaz | > web     |     |        |          |
+|      |          |     | > y  | > donde   |     |        |          |
+|      |          |     | > ló | > los     |     |        |          |
+|      |          |     | gica | > trans   |     |        |          |
+|      |          |     | >    | portistas |     |        |          |
+|      |          |     | para | > puedan  |     |        |          |
+|      |          |     | > v  | > ver un  |     |        |          |
+|      |          |     | isua | >         |     |        |          |
+|      |          |     | liza | historial |     |        |          |
+|      |          |     | ción | > de      |     |        |          |
+|      |          |     | > de | > todos   |     |        |          |
+|      |          |     | >    | > los     |     |        |          |
+|      |          |     | repo | >         |     |        |          |
+|      |          |     | rtes |  reportes |     |        |          |
+|      |          |     | > re | > de      |     |        |          |
+|      |          |     | aliz | > in      |     |        |          |
+|      |          |     | ados | cidencias |     |        |          |
+|      |          |     |      | > que se  |     |        |          |
+|      |          |     |      | > han     |     |        |          |
+|      |          |     |      | > r       |     |        |          |
+|      |          |     |      | ealizado. |     |        |          |
++------+----------+-----+------+-----------+-----+--------+----------+
+| >    | > As     | >   | > De | > Crear   | > 4 |        | > Done   |
+| US07 | ignación | T04 | sarr | > una     |     |        |          |
+|      | > de     |     | ollo | > sección |     |        |          |
+|      | > envíos |     | > de | > en la   |     |        |          |
+|      |          |     | >    | > a       |     |        |          |
+|      |          |     | inte | plicación |     |        |          |
+|      |          |     | rfaz | > web que |     |        |          |
+|      |          |     | > y  | > permita |     |        |          |
+|      |          |     | > ló | > al      |     |        |          |
+|      |          |     | gica | > gerente |     |        |          |
+|      |          |     | >    | > se      |     |        |          |
+|      |          |     | para | leccionar |     |        |          |
+|      |          |     | > as | > y       |     |        |          |
+|      |          |     | igna | > asignar |     |        |          |
+|      |          |     | ción | > envíos  |     |        |          |
+|      |          |     | > de | > a los   |     |        |          |
+|      |          |     | > en | > transp  |     |        |          |
+|      |          |     | víos | ortistas. |     |        |          |
++------+----------+-----+------+-----------+-----+--------+----------+
