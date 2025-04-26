@@ -455,3 +455,19 @@ Pasos para el despliegue
 |      |          |     | > en | > transp  |     |        |          |
 |      |          |     | víos | ortistas. |     |        |          |
 +------+----------+-----+------+-----------+-----+--------+----------+
+
+### Implemented Landing Page Evidence
+
+Se desarrolló e implementó una landing page funcional con diseño
+responsivo, orientada a captar usuarios y prestar los servicios clave de
+la plataforma.
+
+![](media/image52.png){width="6.267716535433071in"
+height="3.0972222222222223in"}
+
+![](media/image90.png){width="6.267716535433071in"
+height="3.7916666666666665in"}
+
+Link:
+[[https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/]{.underline}](https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/)
+
