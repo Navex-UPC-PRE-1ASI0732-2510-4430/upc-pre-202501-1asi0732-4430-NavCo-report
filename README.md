@@ -267,3 +267,42 @@ metodologías
 > del rendimiento y la seguridad. Con estas guías de estilo y
 > convenciones de codificación, buscamos asegurar la coherencia, la
 > calidad y la mantenibilidad del código a lo largo de todo el proyecto.
+
+### Software Deployment Configuration
+
+> En esta sección, describiremos la configuración necesaria para
+> desplegar satisfactoriamente cada uno de los productos digitales de
+> nuestra solución, incluyendo Landing Page, los Web Services.
+
+Pasos para el despliegue
+
+1.  Landing Page:
+
+- Clonar o descargar el repositorio desde GitHub.
+
+- Configurar el servidor web para alojar la Landing Page.
+
+- Copiar los archivos HTML5, CSS y JavaScript en el directorio
+  correspondiente del servidor.
+
+- Configurar cualquier dependencia adicional, como bibliotecas de
+  JavaScript o imágenes.
+
+- Verificar que la Landing Page se cargue correctamente en el navegador.
+
+2.  Web Services (API):
+
+- Preparar el código fuente del servicio web, asegurando que esté
+  correctamente estructurado y documentado.
+
+- Configurar un entorno de desarrollo o pruebas para realizar pruebas
+  exhaustivas del servicio antes del despliegue.
+
+- Desplegar el código en un servidor adecuado para el entorno de
+  producción.
+
+- Configurar la seguridad y la autenticación según los requisitos del
+  sistema.
+
+- Documentar la API utilizando OpenAPI Specification para facilitar su
+  integración y uso por parte de otros sistemas.
