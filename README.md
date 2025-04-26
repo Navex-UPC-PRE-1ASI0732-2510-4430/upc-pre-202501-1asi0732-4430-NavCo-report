@@ -202,9 +202,48 @@ ambientales y sociales.
 ## 1.1 Startup Profile
 ## 1.1.1 Descripción de la Startup
 NavEx es una solución digital integral desarrollada para enfrentar los retos de gestión en el ámbito del transporte empresarial. Su propósito es atender tanto a empresas que requieren administrar operaciones logísticas, como a transportistas que desean optimizar y organizar su trabajo de forma eficaz. La plataforma ofrece múltiples herramientas para la administración de flotas, tales como análisis de rendimiento, notificación de infracciones, registro de incidentes, monitoreo de entregas exitosas y gestión de destinos asignados. Todas estas funcionalidades están disponibles mediante planes de suscripción flexibles, ajustables a las características y dimensiones de cada organización. NavEx representa una solución centralizada y de fácil uso, que permite a sus usuarios supervisar y mejorar sus procesos de transporte, convirtiéndose en un recurso esencial para aumentar la eficiencia y el rendimiento operativo dentro del sector.
+
 - Misión: En NavEx, nuestra misión es ofrecer una plataforma tecnológica integral que facilite y perfeccione la gestión del transporte empresarial. Nos esforzamos por brindar herramientas innovadoras y servicios de alta calidad que ayuden a nuestros clientes a optimizar su desempeño, reducir costos y asegurar una experiencia satisfactoria para sus propios usuarios.
 
 - Visión: Queremos consolidarnos como la principal plataforma de gestión de transporte a nivel empresarial, destacando como un socio estratégico y confiable. Nuestra visión es revolucionar la industria logística mediante soluciones tecnológicas de vanguardia que fomenten el crecimiento, la sostenibilidad y el éxito de las empresas en un entorno global cada vez más exigente.
 
+## 1.1.2 Perfiles de integrantes del equipo
 
+| **Integrante**                             | Mauricio Sebastián Chacon Martinez  |
+|--------------------------------------------|------------------------------------|
+| **Código del Estudiante**                  | U202212911                         |
+| **Carrera**                                | Ingeniería de Software             |
+|                                            |                                    |
+| Soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Me apasiona la programación y tengo conocimientos en HTML, CSS, Javascript, y frameworks web como Vue, Angular y Astro. Me considero una persona responsable y comprometida con mi aprendizaje y desarrollo profesional. | ![Foto](url-de-la-imagen) |
+---
 
+| **Integrante**                             | Alvaro Felipe Pinto Fuentes Rivera |
+|--------------------------------------------|------------------------------------|
+| **Código del Estudiante**                  | U202213384                         |
+| **Carrera**                                | Ingeniería de Software             |
+|                                            |                                    |
+| Soy estudiante del séptimo ciclo de Ingeniería de Software con un buen manejo de lenguajes como C#, C++, HTML, CSS, Java y SQL. Me considero una persona proactiva y comprometida, capaz de adaptarse al trabajo en equipo y de aportar soluciones efectivas durante el desarrollo de proyectos. También me gusta contribuir con ideas que fortalezcan el enfoque técnico y creativo del grupo. | <img src="image.png" alt="Foto" width="160" height="160"> |
+---
+
+| **Integrante**                             | Anthony Brahan Loarte Matos        |
+|--------------------------------------------|------------------------------------|
+| **Código del Estudiante**                  | U20211D563                         |
+| **Carrera**                                | _( )_                              |
+|                                            |                                    |
+| _Sin descripción registrada._             | ![Foto](url-de-la-imagen)          |
+---
+
+| **Integrante**                             | Cameron Charllotte Bustamante Leveau |
+|--------------------------------------------|--------------------------------------|
+| **Código del Estudiante**                  | U20231A804                          |
+| **Carrera**                                | Ingeniería de Software               |
+|                                            |                                      |
+| Me considero una persona creativa y versátil, con gusto por el trabajo en equipo y una fuerte motivación por aprender constantemente. Disfruto participar en proyectos diversos. Tengo conocimientos en C++, Python y otros lenguajes de programación, lo que me permite adaptarme con facilidad a distintos entornos tecnológicos. | <img src="image-1.png" alt="Foto" width="160" height="160"> |
+---
+
+| **Integrante**                             | Armestar Heredia, Matias Gabriel    |
+|--------------------------------------------|-------------------------------------|
+| **Código del Estudiante**                  | U20221A553                          |
+| **Carrera**                                | Ingeniería de Software              |
+|                                            |                                     |
+| _Sin descripción registrada._             | <img src="image-2.png" alt="Foto" width="160" height="160"> |
