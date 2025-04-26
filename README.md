@@ -558,4 +558,119 @@ transporte.
     revisión colaborativa.
 
 # Video About-the-Team
+**[Link:]{.underline}**
 
+# Bibliografía
+
+- Gajewska, T. & Walczyk, D. (2023). Development of Transport Management
+  Software. *Sustainability (Multidisciplinary Digital Publishing
+  Institute)*, *15*(15), 12083.
+  [[https://doi.org/10.3390/su151512083]{.underline}](https://doi.org/10.3390/su151512083)
+
+- Gothelf, J. & Seiden, J. (2021). Lean UX, 3rd Edition. O'Railly Media,
+  Inc.
+  [[https://www.oreilly.com/library/view/lean-ux-3rd/9781098116293/]{.underline}](https://www.oreilly.com/library/view/lean-ux-3rd/9781098116293/)
+
+- He, L., Liu, S. & Shen, Z. M. (2022). Smart urban transport and
+  logistics: A business analytics perspective. *Production and
+  Operations Management*, *31*(10), 3771-3787.
+  [[https://doi.org/10.1111/poms.13775]{.underline}](https://doi.org/10.1111/poms.13775)
+
+- Instituto Nacional de Estadística e Informática. (2024). *A nivel
+  nacional el movimiento de vehículos aumentó 6,1% en abril de 2024*
+  (Nota de Prensa N°96).
+  [[https://m.inei.gob.pe/media/MenuRecursivo/noticias/nota-de-prensa-n-096-2024-inei.pdf]{.underline}](https://m.inei.gob.pe/media/MenuRecursivo/noticias/nota-de-prensa-n-096-2024-inei.pdf)
+
+- International Bank for Reconstruction and Development. (2023).
+  *Connecting to Compete, Trade Logistics in the Global Economy*. The
+  World Bank.
+  [[https://lpi.worldbank.org/sites/default/files/2023-04/LPI_2023_report_with_layout.pdf]{.underline}](https://lpi.worldbank.org/sites/default/files/2023-04/LPI_2023_report_with_layout.pdf)
+
+- International Transport Forum. (2023). *ITF Transport Outlook 2023*,
+  OECD Publishing. Paris,
+  [[https://doi.org/10.1787/b6cc9ad5-en]{.underline}](https://doi.org/10.1787/b6cc9ad5-en)
+
+- Jiao, H. & Zhang, S. (2024). Multi-objective optimization of urban
+  logistics land: a gradient-based method approach with Wuhan city as an
+  example. *International Journal of Digital Earth, 18*(1), 1 - 17.
+  [[https://doi.org/10.1080/17538947.2024.2449568]{.underline}](https://doi.org/10.1080/17538947.2024.2449568)
+
+- Keil, M., Hagemann, V. & Glock, C. (2025). Promoting healthy and safe
+  driving: Physiological and psychological evaluation of truck drivers
+  for individualized shift and route planning. *Transportation Research
+  Part F: Traffic Psychology and Behaviour, 111,* 409-434.
+  [[https://doi.org/10.1016/j.trf.2025.03.017]{.underline}](https://doi.org/10.1016/j.trf.2025.03.017)
+
+- Ministerio de Transporte y Comunicaciones. (2023). ANUARIO
+  ESTADÍSTICO 2023.
+  [[https://cdn.www.gob.pe/uploads/document/file/6778343/5871728-anuario-estadistico-2023.pdf]{.underline}](https://cdn.www.gob.pe/uploads/document/file/6778343/5871728-anuario-estadistico-2023.pdf)
+
+- Mordor Intelligence. (2024). *Análisis de participación y tamaño del
+  mercado de transporte de carga por carretera en Perú tendencias de
+  crecimiento y pronósticos (2024-2029)*. Recuperado el 11 de abril de
+  2025, de
+  [[https://www.mordorintelligence.com/es/industry-reports/peru-road-freight-transport-market]{.underline}](https://www.mordorintelligence.com/es/industry-reports/peru-road-freight-transport-market)
+
+- Nchimbi, S. A., Kisangari, M., Dida, M. A. & Barakabitze, A. A.
+  (2022). Design a Services Architecture for Mobile-Based Agro-Goods
+  Transport and Commerce System. *Mobile Information Systems*,
+  *2022*(1), 1-10.
+  [[https://doi.org/10.1155/2022/6041197]{.underline}](https://doi.org/10.1155/2022/6041197)
+
+- Patil, D., Mane, S., Biradar, S., Rankhamb, S. & Bhonsle, M. (2023).
+  *Fleet Management Mobile Application Using GPS Shortest Path*
+  \[Documento de conferencia\]. International Conference on Data
+  Intelligence and Cognitive Informatics, Tirunelveli, India.
+  [[https://link.springer.com/chapter/10.1007/978-981-99-7962-2_16]{.underline}](https://link.springer.com/chapter/10.1007/978-981-99-7962-2_16)
+
+- Patnaik, D. (2017). Needfinding: Design Research and Planning (4th
+  Edition). CreateSpace Independent Publishing Platform.
+  [[https://www.amazon.com/Needfinding-Design-Research-Planning-4th/dp/1974015580]{.underline}](https://www.amazon.com/Needfinding-Design-Research-Planning-4th/dp/1974015580)
+
+- Pouliou, A., Kehagia, F. & Meselidis, C. (2025). A Model for the Crash
+  Occurrence in Unexpected Incidents. *Transport and Telecommunication
+  Journal*, *26*(1), 33-44.
+  [[https://doi.org/10.2478/ttj-2025-0004]{.underline}](https://doi.org/10.2478/ttj-2025-0004)
+
+- SafeLink Group. (2024). ¿Cuáles son los principales problemas de
+  seguridad en el transporte de carga en Perú? SafeLink Marine.
+  Recuperado el 15 de abril de 2025, de
+  [[https://www.safelinkmexico.com/cuales-son-los-principales-problemas-de-seguridad-en-el-transporte-de-carga-en-peru/]{.underline}](https://www.safelinkmexico.com/cuales-son-los-principales-problemas-de-seguridad-en-el-transporte-de-carga-en-peru/)
+
+- Smith, P, R. & Zook, Z.(2022). Marketing Communications: Integrating
+  Online and Offline, Customer Engagement and Digital Technologies.
+  Kogan Page.
+  [[https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf]{.underline}](https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf)
+
+- Sun, P. F., Zhang, Y., Wu, X. J., Du, J. Y., Hou, R. R. & Liu, J.
+  (2024). SIMULATION AND ANALYSIS OF A PREEMPTIVE TRANSPORTATION MODEL
+  USING FLEXSIM SOFTWARE. *International Journal of Simulation
+  Modelling*, *23*(2), 335-346.
+  [[https://doi.org/10.2507/IJSIMM23-2-CO7]{.underline}](https://doi.org/10.2507/IJSIMM23-2-CO7)
+
+- Superintendencia de Transporte Terrestre de Personas, Carga y
+  Mercancías. (2023). *MEMORIA ANUAL 2023*. Ministerio de Transportes y
+  Comunicaciones.
+  [[https://cdn.www.gob.pe/uploads/document/file/7461251/6352814-memoria-anual-2023.pdf?v=1736265456]{.underline}](https://cdn.www.gob.pe/uploads/document/file/7461251/6352814-memoria-anual-2023.pdf?v=1736265456)
+
+- Superintendencia de Transporte Terrestre de Personas, Carga y
+  Mercancías. (2024). REPORTE ESTADÍSTICO N.º 05-2023: FISCALIZACIÓN CON
+  CINEMÓMETROS (Del 01 de enero al 31 de diciembre de 2023). Ministerio
+  de Transportes y Comunicaciones.
+  [[https://cdn.www.gob.pe/uploads/document/file/5784678/5137004-reporte-estadistico-n-005-2023-fiscalizacion-con-cinemometros.pdf?v=1706720388]{.underline}](https://cdn.www.gob.pe/uploads/document/file/5784678/5137004-reporte-estadistico-n-005-2023-fiscalizacion-con-cinemometros.pdf?v=1706720388)
+
+- Wheeler, A. & Meyerson, R. (2024). Designing Brand Identity: A
+  Comprehensive Guide to the World of Brands and Branding. Wiley.
+  [[https://www.amazon.com/-/es/Alina-Wheeler-ebook/dp/B0CVVNPZWG?ref\_=ast_author_mpb]{.underline}](https://www.amazon.com/-/es/Alina-Wheeler-ebook/dp/B0CVVNPZWG?ref_=ast_author_mpb)
+
+**Anexos**
+
+- **PivotalTracker-ProductBacklog:**
+
+- **Registro de Entrevistas:**
+
+- **Figma de Proyecto:**
+
+- **LandingPage:[[https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/]{.underline}](https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/)**
+
+##
