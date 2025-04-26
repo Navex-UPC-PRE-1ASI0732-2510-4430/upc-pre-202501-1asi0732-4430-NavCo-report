@@ -433,6 +433,7 @@ Una descripción de un wireframe para una Landing Page (página de aterrizaje) d
 
 
 Link: 
+<br>
 https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
 
 
@@ -466,7 +467,8 @@ https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPV
   <img src="landingMockup_7.png" alt="Landing Page Mock-up 7">
 </div>
 
-Link: 
+Link:
+<br>
 https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
 
 
@@ -538,7 +540,7 @@ https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPV
 
 
 
-Link: 
+Link: <br>
 https://www.canva.com/design/DAGlqlpZ3gM/uLmI_AubnjlfINhVzlLtKQ/edit?utm_content=DAGlqlpZ3gM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Mobile Applications Prototyping
@@ -698,7 +700,7 @@ En un diagrama de clases, lo que haremos es diseñar y modelar la estructura est
   <img src="classDiagram_1.png" alt="Class Diagram 1">
 </div>
 
-Link for LucidChart: 
+Link for LucidChart: <br>
 https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_loc=-1886%2C-1663%2C3923%2C1908%2C0_0&invitationId=inv_f6f786bf-d4b8-4d72-bd35-97214589f959
 
 ### Class Dictionary
@@ -706,21 +708,37 @@ https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_
 En esta sección se definirán las clase que se identificaron en el Class Diagram:
 
 - Class Vehicules: Representa los vehículos en el sistema.
+<br>
 - Class ReportVehicule: Representa los informes relacionados con los vehículos en el sistema.
+<br>
 - Class ReportInfraction: Representa los informes de infracción relacionados con los vehículos en el sistema.
+<br>
 - Class VehiculeFeatures: Representa las características de los vehículos en el sistema.
+<br>
 - Class Features: Representa las características en general.
+<br>
 - Class Carriers: Representa a los transportistas en el sistema.
+<br>
 - Class CarrierContacts: Representa los contactos relacionados con los transportistas en el sistema.
+<br>
 - Class Managers: Representa a los gerentes en el sistema.
+<br>
 - Class ManagerContacts: Representa los contactos relacionados con los gerentes en el sistema.
+<br>
 - Class Items: Representa los artículos en el sistema.
+<br>
 - Class Packet: Representa los paquetes en el sistema.
+<br>
 - Class ReportPacket: Representa los informes relacionados con los paquetes en el sistema.
+<br>
 - Class HasShipped: Representa los envíos en el sistema.
+<br>
 - Class TransportationCost: Representa los costos de transporte en el sistema.
+<br>
 - Class ReportAccident: Representa los informes relacionados con los accidentes en el sistema.
+<br>
 - Class Destination: Representa los destinos en el sistema.
+<br>
 - Class VehiculeRoute: Representa las rutas de vehículos en el sistema.
 
 ## Database Design
@@ -731,5 +749,5 @@ En esta sección se definirán las clase que se identificaron en el Class Diagra
   <img src="relationaDatabaseDiagram_1.png" alt="Relational Database Diagram 1">
 </div>
 
-Link for Vertabelo: 
+Link for Vertabelo: <br>
 https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028
