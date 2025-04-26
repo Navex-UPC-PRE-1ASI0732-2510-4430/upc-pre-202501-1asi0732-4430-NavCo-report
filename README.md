@@ -675,3 +675,106 @@ Persona.
 ###### User Journey Mapping del segundo User Persona
 
 ![](UserJourneyMapping2.png)
+
+
+### Empathy Mapping
+
+> Empathy Mapping es una técnica visual que permite ponerse en el lugar
+> del usuario. Se explora qué piensa, siente, dice y hace el usuario
+> para comprender mejor su perspectiva. Ayuda a desarrollar soluciones
+> más humanas y empáticas.
+
+###### **Figura 6**
+
+###### User Empathy Mapping del primer User Persona
+
+<div><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfffAbJ7WOdmksRWbAKjPjhYBn4AB6EVe2vphQIltkl7GJtwwA0x3WSgsHjpafc3X84a8g1pgSmGh4zbhJm9CgnSJTrNvmMyYSMIdjRW_NKYfOiVEGQ6lP5H0tGxAqpdEqWRbSICg?key=KzZRSb9Fxkyo9tuZUz3NPa75" /></div>
+
+###### **Figura 7**
+
+###### User Empathy Mapping del segundo User Persona
+
+<div><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXFBZgM2qc4v9kDpcA4vIDt5OK67iRNLryopwNN3_m4kWV9yuBWomHYJbxxtoOim7JuZKxdFrxlJUx_dzSERKxnioIyf5vhU1CF2Zb9MrTA-2ABH46x7ald1-qUEYQE4CtD2ot?key=KzZRSb9Fxkyo9tuZUz3NPa75"/></div>
+
+
+### As-is Scenario Mapping
+
+> El As-is Scenario Mapping es una técnica empleada en el diseño de
+> experiencia de usuario (UX) y en el análisis de procesos con el
+> objetivo de comprender y representar gráficamente cómo funciona un
+> sistema, producto o servicio en su estado actual. El término
+> *\"as-is\"* hace referencia precisamente a esto: a documentar el
+> proceso tal como ocurre en la realidad, sin proponer aún cambios o
+> mejoras. Este tipo de mapeo consiste en la elaboración de un esquema
+> visual que detalla todas las etapas, acciones, decisiones e
+> interacciones que componen un proceso. A través de este enfoque, se
+> identifican los puntos de contacto entre el usuario y el sistema, lo
+> que permite obtener una visión clara de la experiencia actual y
+> detectar posibles ineficiencias, cuellos de botella o áreas de mejora.
+
+##### 
+
+###### **Figura 8**
+
+###### As-is Scenario Mapping del primer User Persona
+
+<div ><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXcWkHmUIJvotppFgGa_MR_RVqNzUFKvmBmEBSavSyIlnIlC4LsWAW6y25Nn8EqqokZu9k8h5Giq3UY0r9WpAAxOO8AZhBVk6SCAzJ5T_yBwjp6hS5st2RQSxiU3qYCylG49_cow?key=KzZRSb9Fxkyo9tuZUz3NPa75" /></div>
+
+
+###### **Figura 9**
+
+###### As-is Scenario Mapping del segundo User Persona
+
+<div ><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHKtdi9h0DaefNjd0JdBm_ACaC1y5-hGSaup76m8_rhOu82rmPDB-aZL3d5xvNg9Rb0-4RMYhB7jUu_gmKYjGm0kZp6crzp0BakQCIC-LcBJwLjlZcRUM-JEXVb_W0ODYYE4SUQg?key=KzZRSb9Fxkyo9tuZUz3NPa75" /></div>
+
+
+
+## Ubiquitous Language
+
+> Ubiquitous Language (o *Lenguaje Ubicuo*) es un conjunto de términos
+> compartidos y consistentes que se utilizan en todo un equipo de
+> desarrollo (diseñadores, programadores, analistas, stakeholders, etc.)
+> para describir el dominio del problema. Es muy común en metodologías
+> como *Domain-Driven Design (DDD)*.
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Término</th>
+      <th>Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Administrador</td>
+      <td>Persona encargada de gestionar la academia y supervisar la flota de transporte.</td>
+    </tr>
+    <tr>
+      <td>Transportista</td>
+      <td>Encargado de operar los vehículos, realizar rutas y reportar incidencias.</td>
+    </tr>
+    <tr>
+      <td>Conductor</td>
+      <td>Persona que conduce los autobuses y está en contacto directo con los atletas.</td>
+    </tr>
+    <tr>
+      <td>Unidad (Vehículo)</td>
+      <td>Autobús o transporte asignado para movilizar a los atletas.</td>
+    </tr>
+    <tr>
+      <td>Ruta</td>
+      <td>Trayecto predefinido que sigue una unidad para trasladar usuarios.</td>
+    </tr>
+    <tr>
+      <td>Incidencia</td>
+      <td>Evento anómalo o problema reportado durante el servicio de transporte.</td>
+    </tr>
+    <tr>
+      <td>Planificación de Rutas</td>
+      <td>Proceso de definir y optimizar los recorridos de los vehículos.</td>
+    </tr>
+    <tr>
+      <td>Panel de Control</td>
+      <td>Interfaz dentro de la aplicación que muestra métricas y estado de la flota.</td>
+    </tr>
+  </tbody>
+</table>
