@@ -63,8 +63,7 @@ Chacon Martinez, Mauricio Sebastian - U202212911
   crear diseños atractivos, legibles, accesibles y coherentes que
   comuniquen eficazmente el mensaje deseado y mejoren la experiencia del
   usuario.
-
-<div> <img src="" alt="5"/></div>
+<div align="center"> <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWvQa6-x7sSB5DNpO2Li90ZSJqHoZtt0DrurxD2VOEt7gqhTgrLc0sFLp-UvptrLPT4Qh01oBd8cCc-1FQGFDBiBGNGHvMqTFAhhA3w3ywoidKgkAp0HYYHNS5EF62T5jbkT66zw?key=KzZRSb9Fxkyo9tuZUz3NPa75" width="60%" alt="5"/></div>
 <br>
 - Tipografía: Las directrices de estilo, que incluyen pautas para la
   tipografía, son esenciales para garantizar la coherencia y legibilidad
@@ -79,7 +78,7 @@ Chacon Martinez, Mauricio Sebastian - U202212911
   legibles, coherentes y efectivos que mejoren la experiencia del
   usuario y fortalezcan la identidad de la marca.
 
-<div> <img src="" alt="5"/></div>
+<div align="center"> <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9JspLWITtRheL3lPUsGEl4ieqpNSAICXdy3c4nGO3TXinV0DeSevOGvPGSJj0n0t-lfgIelaLoY4e-OhxuS9VsETgn9Sa5Cx5iHxR06-FiKTq6Ofsgsj9c08xYp9buTZJx713xw?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
 <br>
 
 - Botones y Iconos: Los botones están diseñados para ser intuitivos,
@@ -110,7 +109,10 @@ Chacon Martinez, Mauricio Sebastian - U202212911
 - **Accesibilidad y experiencia:** Iconos para activar funciones como el
   modo oscuro, dejar de ver, log out, etc.
 
-<div> <img src="" alt="5"/></div>
+<div align="center">  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTY53DDHCFkcLzelNZUxxrsBxrBBLWFeuurYTmZegK5BVpaHoXs_wIdCXCxVQbnssdU-4OGRa5sY5-V0lgE0OivyM9oz7J89C--qn3iUTGDRgW4c1C2HbxTx4iPCWS82vfR-ruRg?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
+<br>
+
+<div align="center">  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdMOFPdGZQnRNrGzrvy4gnRmOn9YetwYTl4v6r49CwiOhXzaMA08HZN23xFlzAw3fxqrNkKZn6wZt3QlQlw8ce0Jq1N09m9KENj9ZHOi4eqcoJymh_2V2N-H-9vzvvi4q4_ZiNRlw?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
 <br>
 
 - Tono de comunicación y lenguaje aplicado: El tono de comunicación es
@@ -125,17 +127,13 @@ Chacon Martinez, Mauricio Sebastian - U202212911
   accesibilidad y la capacidad de conexión con la audiencia.
 
 ### Web Style Guidelines
-
-> En esta sección se explica e ilustra las decisiones sobre los
-> estándares visuales y de interacción para responsive web interfaces.
+En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de interacción para responsive web interfaces.
 
 ### Mobile Style Guidelines
 
 #### iOS Mobile Style Guidelines
 
-> Esta sección establece las pautas de diseño específicas para
-> dispositivos móviles, asegurando que la aplicación mantenga una
-> experiencia coherente, nativa y óptima en iOS.
+Esta sección establece las pautas de diseño específicas para dispositivos móviles, asegurando que la aplicación mantenga una experiencia coherente, nativa y óptima en iOS.
 
 1.  **Navegación:** En esta sección se tomaron las siguientes decisiones
     de diseño para garantizar una experiencia fluida e intuitiva para el
@@ -193,10 +191,7 @@ Chacon Martinez, Mauricio Sebastian - U202212911
 
 #### Android Mobile Style Guidelines
 
-> Esta sección establece las pautas de diseño específicas para
-> dispositivos Android, asegurando que la aplicación mantenga una
-> experiencia visual y de interacción coherente con las expectativas del
-> sistema y los usuarios.
+Esta sección establece las pautas de diseño específicas para dispositivos Android, asegurando que la aplicación mantenga una experiencia visual y de interacción coherente con las expectativas del sistema y los usuarios.
 
 1.  **Navegación**
 
@@ -383,33 +378,33 @@ Chacon Martinez, Mauricio Sebastian - U202212911
 > planificada. Para brindar una experiencia fluida y satisfactoria, se
 > implementan las siguientes acciones y técnicas:
 
-1.  Menú de navegación claro: Se ha implementado un menú de navegación
+1.  **Menú de navegación claro:** Se ha implementado un menú de navegación
     en la parte superior del Landing Page con enlaces a las secciones
     principales, como Inicio, Acerca de Nosotros, Equipo, Servicios,
     Precios y Contacto. Esto permite a los usuarios acceder rápidamente
     a las áreas de interés
 
-2.  Botones de llamada a la acción (CTA): Se han agregado botones CTA
+2.  **Botones de llamada a la acción (CTA):** Se han agregado botones CTA
     para descargar la aplicación desde la App Store y Google Play Store,
     lo que facilita a los usuarios acceder a la aplicación desde sus
     dispositivos móviles.
 
-3.  Navegación por desplazamiento: El Landing Page utiliza un diseño de
+3.  **Navegación por desplazamiento:** El Landing Page utiliza un diseño de
     desplazamiento único, lo que permite a los usuarios recorrer el
     contenido de manera secuencial. Cada sección está claramente marcada
     y se puede acceder desplazándose hacia abajo.
 
-4.  Enlaces internos: Se han incluido enlaces internos dentro del
+4.  **Enlaces internos:** Se han incluido enlaces internos dentro del
     contenido para facilitar la navegación entre diferentes secciones
     del Landing Page. Por ejemplo, enlaces a secciones como Acerca de
     Nosotros, Servicios y Precios.
 
-5.  Barra de idiomas: Se ha agregado una barra de idiomas que permite a
+5.  **Barra de idiomas:** Se ha agregado una barra de idiomas que permite a
     los usuarios cambiar entre inglés y español, lo que mejora la
     accesibilidad y la experiencia del usuario para aquellos que hablan
     diferentes idiomas.
 
-6.  Diseño responsive: El diseño del Landing Page es responsive, lo que
+6.  **Diseño responsive:** El diseño del Landing Page es responsive, lo que
     significa que se adapta automáticamente a diferentes tamaños de
     pantalla, garantizando una experiencia de usuario consistente en
     dispositivos móviles y de escritorio.
