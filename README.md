@@ -357,3 +357,40 @@ Figura 12
 | 23 | US03 | Visualización de envíos asignados a un transportista | Como gerente quiero ver los envíos asignados de un transportista para poder medir el rendimiento de mis empleados. | 2 |
 | 24 | US08 | Visualización de historial de envíos | Como gerente quiero ver el historial de envíos realizado para saber cuantos de estos fueron exitosos | 2 |
 | 25 | US12 | Modificar perfil de transportistas | Como transportista quiero gestionar mis datos personales para que estén actualizados | 3 |
+
+### 3.4 Impact Mapping
+
+Figura 13
+
+*Impact Mapping para nuestro primer User Persona*
+
+![impact-map1](/impact-map1.png)
+
+Figura 14
+
+*Impact Mapping para nuestro primer User Persona*
+
+![impact-map2](/impact-map2.png)
+
+Figura 15
+
+*Impact Mapping para nuestro primer User Persona*
+![impact-map](/impact-map.png)
+
+Figura 16
+
+*Impact Mapping para nuestro segundo User Persona*
+
+![impact-map3](/impact-map3.png)
+
+Figura 17
+
+*Impact Mapping para nuestro segundo User Persona*
+
+![](/impact-map4.png)
+
+Figura 18
+
+*Impact Mapping para nuestro segundo User Persona*
+
+![](/impact-map5.png)
