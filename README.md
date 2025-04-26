@@ -708,37 +708,37 @@ https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_
 En esta sección se definirán las clase que se identificaron en el Class Diagram:
 
 - Class Vehicules: Representa los vehículos en el sistema.
-<br>
+
 - Class ReportVehicule: Representa los informes relacionados con los vehículos en el sistema.
-<br>
+
 - Class ReportInfraction: Representa los informes de infracción relacionados con los vehículos en el sistema.
-<br>
+
 - Class VehiculeFeatures: Representa las características de los vehículos en el sistema.
-<br>
+
 - Class Features: Representa las características en general.
-<br>
+
 - Class Carriers: Representa a los transportistas en el sistema.
-<br>
+
 - Class CarrierContacts: Representa los contactos relacionados con los transportistas en el sistema.
-<br>
+
 - Class Managers: Representa a los gerentes en el sistema.
-<br>
+
 - Class ManagerContacts: Representa los contactos relacionados con los gerentes en el sistema.
-<br>
+
 - Class Items: Representa los artículos en el sistema.
-<br>
+
 - Class Packet: Representa los paquetes en el sistema.
-<br>
+
 - Class ReportPacket: Representa los informes relacionados con los paquetes en el sistema.
-<br>
+
 - Class HasShipped: Representa los envíos en el sistema.
-<br>
+
 - Class TransportationCost: Representa los costos de transporte en el sistema.
-<br>
+
 - Class ReportAccident: Representa los informes relacionados con los accidentes en el sistema.
-<br>
+
 - Class Destination: Representa los destinos en el sistema.
-<br>
+
 - Class VehiculeRoute: Representa las rutas de vehículos en el sistema.
 
 ## Database Design
