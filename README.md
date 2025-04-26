@@ -471,3 +471,91 @@ height="3.7916666666666665in"}
 Link:
 [[https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/]{.underline}](https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/)
 
+### Implemented Web Application Evidence
+
+En NaVex se construyó la interfaz del usuario utilizando tecnologías web
+modernas (HTML, CSS, JavaScript y Vue), asegurando una navegación
+fluida, componentes interactivos y una experiencia de usuario optimizada
+en distintos dispositivos.
+
+### Implemented Mobile Application Evidence
+
+### Implemented Backend Evidence
+
+### Team Collaboration Insights
+
+Durante este primer Sprint, hemos completado el desarrollo del Landing
+Page y hemos colaborado estrechamente en su implementación. La
+colaboración entre los miembros del equipo se refleja en los diversos
+commits realizados en el repositorio de GitHub, los cuales han sido
+debidamente documentados en las capturas de pantalla adjuntas. Para
+asegurar una colaboración efectiva, hemos implementado GitFlow como
+nuestra metodología de trabajo colaborativo en Git. Usando GitFlow,
+hemos creado ramas para cada una de las secciones de nuestra landing
+page.
+
+Esto nos ha permitido trabajar de manera organizada y centrarnos en
+completar correctamente las historias de usuario designadas para cada
+sección. En cuanto a la elaboración del código, hemos asignado a cada
+miembro del equipo una sección específica del landing page. Esta
+estrategia nos ha permitido avanzar de manera más eficiente y completar
+el trabajo antes de la fecha de entrega. Además, hemos realizado
+reuniones adicionales para intercambiar ideas y resolver cualquier duda
+o problema que pudiera surgir durante el desarrollo del landing page.
+Estas sesiones han contribuido de manera positiva al éxito del proyecto.
+A continuación, presentamos algunas capturas de pantalla que muestran
+los commits realizados por los miembros del equipo en GitHub:
+
+FOTO DE BRANCHES Y LOS CONVENTIONAL COMMITS DE CADA UNO
+
+## Video About-the-Product
+
+# Conclusiones y recomendaciones:
+
+La introducción del enfoque Lean UX en la etapa inicial del proyecto fue
+fundamental para establecer una comprensión profunda de las necesidades
+del usuario y orientar de forma efectiva el desarrollo de nuestra
+propuesta de servicio. Este enfoque facilitó la integración de
+metodologías ágiles y centradas en el usuario, permitiendo una mejor
+definición de los segmentos de mercado y una validación continua de las
+decisiones de diseño.
+
+El desarrollo de NavEx, una aplicación dirigida a transportistas y
+empresarios con flotas de transporte, se benefició significativamente de
+este marco metodológico. Gracias a un análisis exhaustivo de los
+principales problemas del sector y a entrevistas directas con usuarios
+potenciales, se identificaron oportunidades clave para mejorar la
+experiencia del usuario. Esta retroalimentación permite ajustar
+funcionalidades críticas para asegurar que la solución sea relevante,
+intuitiva y funcional.
+
+Durante este sprint, la planificación estructurada, el cumplimiento
+riguroso del Sprint Backlog y la ejecución de pruebas fueron pilares del
+progreso alcanzado. La documentación detallada de los servicios y
+funcionalidades implementadas contribuyó a mantener la trazabilidad del
+proyecto y a facilitar futuras iteraciones. El trabajo colaborativo, la
+organización interna y la adaptación ante los desafíos técnicos
+demostraron la solidez del equipo, posicionando a NavEx como una
+solución viable y competitiva dentro del mercado de gestión de
+transporte.
+
+**Recomendaciones**
+
+1.  Continuar aplicando Lean UX en las siguientes fases del desarrollo
+    para mantener una visión centrada en el usuario y asegurar una
+    evolución coherente del producto.
+
+2.  Reforzar la validación con usuarios reales a través de pruebas de
+    usabilidad y encuestas, para garantizar que cada iteración responda
+    a necesidades concretas.
+
+3.  Mantener una documentación técnica actualizada y detallada que
+    facilite la escalabilidad del sistema y permita una integración
+    fluida de nuevos miembros al equipo.
+
+4.  Fomentar la mejora continua en los procesos de trabajo en equipo,
+    incentivando espacios de retroalimentación regular y sesiones de
+    revisión colaborativa.
+
+# Video About-the-Team
+
