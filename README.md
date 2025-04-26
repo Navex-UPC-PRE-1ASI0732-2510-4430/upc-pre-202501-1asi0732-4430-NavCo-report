@@ -247,3 +247,23 @@ NavEx es una solución digital integral desarrollada para enfrentar los retos de
 | **Carrera**                                | Ingeniería de Software              |
 |                                            |                                     |
 | _Sin descripción registrada._             | <img src="image-2.png" alt="Foto" width="160" height="160"> |
+
+## 1.2 Solution profile
+## 1.2.1 Antecedentes y problematica
+
+En el sector del transporte empresarial, la gestión eficiente de las flotas es un desafío constante. Los empresarios y transportistas se enfrentan a dificultades como la planificación de rutas, el seguimiento de vehículos, la programación de viajes y la gestión de costos. Aunque existen soluciones de software para la gestión de flotas, muchas de ellas no son lo suficientemente flexibles o integrales para satisfacer todas las necesidades de los usuarios. 
+La falta de una solución de gestión de flotas integral y fácil de usar está afectando la eficiencia operativa, aumentando los costos y reduciendo la satisfacción del cliente en el sector del transporte empresarial. Utilizaremos la técnica de las 5W y 2Hs para desglosar el problema y entenderlo en detalle. Esta técnica nos proporcionará respuestas claras sobre qué, cuándo, dónde, quién, por qué, cómo y cuánto, lo que nos ayudará a encontrar soluciones efectivas.
+
+**Tabla 1**
+
+*Presentación del modelo de las preguntas 5 Ws y 2 Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto*
+
+| **Las 5Ws y 2Hs** | **Pregunta**                                | **Descripción**                                                                                                                                         |
+|--------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **What?**         | ¿Cuál es el problema?                      | Existe una falta de eficiencia en la gestión de flotas de transporte empresarial, lo que resulta en costos elevados y disminución de la satisfacción del cliente. |
+| **When?**         | ¿Cuándo estamos viendo el problema?         | Este problema se observa principalmente durante las horas pico de operación, cuando la demanda de transporte es alta y la planificación de rutas se vuelve más compleja. |
+| **Where?**        | ¿Dónde estamos viendo los problemas?        | El problema se presenta en todo el proceso de gestión de flotas, desde la planificación de rutas hasta el seguimiento de vehículos y la programación de viajes. |
+| **Who?**          | ¿A quién le sucede?                        | Este problema afecta tanto a los empresarios que necesitan administrar sistemas de transporte como a los transportistas que buscan una organización eficiente en sus operaciones. |
+| **Why?**          | ¿Por qué sucede el problema?               | El problema surge debido a la falta de una solución de gestión de flotas integral y fácil de usar que pueda satisfacer todas las necesidades de los usuarios. |
+| **How?**          | ¿Cómo se diferencia el problema del estado normal (óptimo)? | El problema se manifiesta en forma de costos operativos elevados, retrasos en las entregas, insatisfacción del cliente y dificultades en la planificación de rutas. |
+| **How Much?**     | ¿Cuánto es el impacto financiero?           | El problema podría estar costando a las empresas miles de dólares cada mes en costos operativos adicionales y pérdida de clientes debido a la insatisfacción. |
