@@ -250,8 +250,7 @@ el futuro?
 
 > *Imagen de presentación de la primera entrevista realizada.*
 
-![](Entrevista1.jpg){width="6.267716535433071in"
-height="3.2083333333333335in"}
+![](Entrevista1.jpg)
 
 *Nota.* La persona que se encuentra a la derecha es el entrevistador,
 integrante del grupo, mientras que la persona a la izquierda es el
@@ -290,11 +289,7 @@ implementación de la app en la empresa.
 
 > *Imagen de presentación de la segunda entrevista realizada.*
 
-  ------------- ---------------------------------------------------------
-                ![](Entrevista2.jpg){width="4.6875in"
-                height="3.1527777777777777in"}
-
-  ------------- ---------------------------------------------------------
+![](Entrevista2.jpg)
 
 > *Nota.* La persona que se muestra en la grabación es el entrevistado.
 >
@@ -333,8 +328,7 @@ puntualidad y las prácticas de mantenimiento preventivo.
 
 *Imagen de presentación de la primera entrevista realizada.*
 
-![](Entrevista3.jpg){width="5.421875546806649in"
-height="3.2083333333333335in"}
+![](Entrevista3.jpg)
 
 *Nota.* La persona que se muestra en la imagen es el entrevistado.
 
@@ -376,8 +370,7 @@ de seguimiento.
 *Imagen de presentación de la primera entrevista realizada a nuestro
 segundo segmento objetivo.*
 
-![](Entrevista4.jpg){width="6.015625546806649in"
-height="2.9678412073490814in"}
+![](Entrevista4.jpg)
 
 > **Datos principales:**
 >
@@ -417,8 +410,7 @@ para agilizar procesos
 *Imagen de presentación de la segunda entrevista realizada a nuestro
 segundo segmento objetivo.*
 
-![](Entrevista5.jpg){width="6.267716535433071in"
-height="2.6666666666666665in"}
+![](Entrevista5.jpg)
 
 > **Datos principales:**
 >
@@ -453,8 +445,7 @@ comunicación y la calidad del servicio en la empresa.
 *Imagen de presentación de la tercera entrevista realizada a nuestro
 segundo segmento objetivo.*
 
-![](Entrevista5.jpg){width="6.267716535433071in"
-height="3.1666666666666665in"}
+![](Entrevista6.jpg)
 
 > **Datos principales:**
 >
@@ -625,8 +616,7 @@ Persona.
 
 ###### User Persona del primer segmento objetivo: Conductor
 
-> ![](UserPersona1.png){width="4.921875546806649in"
-> height="8.450964566929134in"}
+> ![](UserPersona1.png)
 
 ###### **Figura 2**
 
@@ -648,8 +638,8 @@ Persona.
 
 ###### User Task Matrix para el primer y segundo User Persona
 
-> ![](UserTaskMatrix.png){width="5.411458880139983in"
-> height="5.756008311461067in"}**Diferencias:** Los empresarios se
+> ![](UserTaskMatrix.png)
+> **Diferencias:** Los empresarios se
 > centran más en tareas relacionadas con la gestión general de la flota,
 > como monitoreo del rendimiento, registro de incidencias y
 > planificación de rutas.
@@ -678,12 +668,10 @@ Persona.
 
 ###### User Journey Mapping del primer User Persona
 
-> ![](UserJourneyMapping1.png){width="9.454412729658793in"
-> height="5.351155949256343in"}
+> ![](UserJourneyMapping1.png)
 
 ###### **Figura 5**
 
 ###### User Journey Mapping del segundo User Persona
 
-![](UserJourneyMapping2.png){width="9.276042213473316in"
-height="4.947916666666667in"}
+![](UserJourneyMapping2.png)
