@@ -43,7 +43,7 @@ Chacon Martinez, Mauricio Sebastian - U202212911
   
 # Capítulo IV: Product Design
 
-## Style Guidelines
+## 4.1. Style Guidelines
 > En esta sección, vamos a exponer el plan que hemos desarrollado para
 > el diseño, los estilos y la apariencia de nuestra página web y las
 > páginas de nuestra aplicación, con el fin de asegurar que nuestros
@@ -53,7 +53,7 @@ Chacon Martinez, Mauricio Sebastian - U202212911
 > tiempo que hemos establecido ciertas restricciones para evitar la
 > inclusión de elementos gráficos poco atractivos.
 
-### General Style Guidelines
+### 4.1.1. General Style Guidelines
 
 - Colores: La consideración de los colores es crucial porque influyen en
   la coherencia visual, la legibilidad y accesibilidad del diseño, la
@@ -126,12 +126,12 @@ Chacon Martinez, Mauricio Sebastian - U202212911
   complejidad del texto, lo cual impacta en la claridad, la
   accesibilidad y la capacidad de conexión con la audiencia.
 
-### Web Style Guidelines
+### 4.1.2. Web Style Guidelines
 En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de interacción para responsive web interfaces.
 
-### Mobile Style Guidelines
+### 4.1.3. Mobile Style Guidelines
 
-#### iOS Mobile Style Guidelines
+#### 4.1.3.1. iOS Mobile Style Guidelines
 
 Esta sección establece las pautas de diseño específicas para dispositivos móviles, asegurando que la aplicación mantenga una experiencia coherente, nativa y óptima en iOS.
 
@@ -189,7 +189,7 @@ Esta sección establece las pautas de diseño específicas para dispositivos mó
 - Uso consistente del color para guiar al usuario visualmente (botones,
   íconos, secciones).
 
-#### Android Mobile Style Guidelines
+#### 4.1.3.2. Android Mobile Style Guidelines
 
 Esta sección establece las pautas de diseño específicas para dispositivos Android, asegurando que la aplicación mantenga una experiencia visual y de interacción coherente con las expectativas del sistema y los usuarios.
 
@@ -279,9 +279,9 @@ Esta sección establece las pautas de diseño específicas para dispositivos And
   Icons, y su diseño está optimizado para integrarse naturalmente con
   las interfaces Android.
 
-## Information Architecture
+## 4.2. Information Architecture
 
-### Organization Systems
+### 4.2.1 Organization Systems
 
 > En esta sección, se detalla cómo se organizará la información en
 > grupos específicos, aplicando diferentes sistemas de organización
@@ -326,7 +326,7 @@ Esta sección establece las pautas de diseño específicas para dispositivos And
   para diferentes grupos de usuarios, como clientes corporativos versus
   individuales, para satisfacer mejor sus necesidades y expectativas.
 
-### Labeling Systems
+### 4.2.2. Labeling Systems
 
 > En esta sección, identificamos y describimos las etiquetas específicas
 > que se utilizarán para representar conjuntos de información y sus
@@ -336,7 +336,7 @@ Esta sección establece las pautas de diseño específicas para dispositivos And
 > elementos del sistema, con el fin de optimizar la experiencia del
 > usuario y promover una navegación fluida y sin contratiempos.
 
-### SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 
 > Para mejorar la visibilidad y optimizar el rendimiento de nuestra
 > Landing Page en los motores de búsqueda, hemos implementado los
@@ -366,7 +366,7 @@ Esta sección establece las pautas de diseño específicas para dispositivos And
 > hemos asegurado que nuestro sitio sea indexado y seguido por los
 > motores de búsqueda para garantizar una mayor visibilidad en la web.
 
-### Searching Systems
+### 4.2.4. Searching Systems
 
 > En esta sección, se detallan las estrategias clave diseñadas para
 > guiar a los usuarios a través del Landing Page y las aplicaciones de
