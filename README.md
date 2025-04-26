@@ -408,3 +408,328 @@ Esta sección establece las pautas de diseño específicas para dispositivos And
     significa que se adapta automáticamente a diferentes tamaños de
     pantalla, garantizando una experiencia de usuario consistente en
     dispositivos móviles y de escritorio.
+
+## Landing Page UI Design
+En esta sección, nos encargaremos de crear una página visualmente atractiva y altamente funcional que cumpla con el objetivo específico. El diseño debe ser intuitivo, optimizado para todos los dispositivos, y debe guiar al usuario de manera clara hacia la acción deseada.
+
+### Landing Page Wireframe
+Una descripción de un wireframe para una Landing Page (página de aterrizaje) debe transmitir la estructura, distribución y propósito de cada sección, sin entrar aún en diseño visual detallado (colores, tipografías, etc.). Aquí tienes un ejemplo de descripción clara y profesional:
+
+<div align="center">
+  <img src="landingWireframe_1.png" alt="Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_2.png" alt="Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_3.png" alt="Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_4.png" alt="Wireframe 4">
+</div>
+
+
+Link: 
+https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
+
+
+### Landing Page Mock-up
+
+<div align="center">
+  <img src="landingMockup_1.png" alt="Landing Page Mock-up 1">
+</div>
+
+<div align="center">
+  <img src="landingMockup_2.png" alt="Landing Page Mock-up 2">
+</div>
+
+<div align="center">
+  <img src="landingMockup_3.png" alt="Landing Page Mock-up 3">
+</div>
+
+<div align="center">
+  <img src="landingMockup_4.png" alt="Landing Page Mock-up 4">
+</div>
+
+<div align="center">
+  <img src="landingMockup_5.png" alt="Landing Page Mock-up 5">
+</div>
+
+<div align="center">
+  <img src="landingMockup_6.png" alt="Landing Page Mock-up 6">
+</div>
+
+<div align="center">
+  <img src="landingMockup_7.png" alt="Landing Page Mock-up 7">
+</div>
+
+Link: 
+https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
+
+
+## Mobile Applications UX/UI Design
+###  Mobile Applications Wireframes
+
+<div align="center">
+  <img src="mobileAppWireframe_1.png" alt="Mobile App Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_2.png" alt="Mobile App Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_3.png" alt="Mobile App Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_4.png" alt="Mobile App Wireframe 4">
+</div>
+
+
+### Mobile Applications Wireflow Diagrams
+
+<div align="center">
+  <img src="mobileAppWireflowDiagram_1.png" alt="Mobile App Wireframe 4">
+</div>
+
+### Mobile Applications Mock-ups
+
+<div align="center">
+  <img src="mobileAppMockup_1.png" alt="Mobile App Mockup 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_2.png" alt="Mobile App Mockup 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_3.png" alt="Mobile App Mockup 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_4.png" alt="Mobile App Mockup 4">
+</div>
+
+### Mobile Applications User Flow Diagrams
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_1.png" alt="Mobile App User Flow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_2.png" alt="Mobile App User Flow Diagram 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_3.png" alt="Mobile App User Flow Diagram 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_4.png" alt="Mobile App User Flow Diagram 4">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_5.png" alt="Mobile App User Flow Diagram 5">
+</div>
+
+
+
+Link: 
+https://www.canva.com/design/DAGlqlpZ3gM/uLmI_AubnjlfINhVzlLtKQ/edit?utm_content=DAGlqlpZ3gM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Mobile Applications Prototyping
+
+### Android Mobile Applications Prototyping
+
+<div align="center">
+  <img src="androidMobileAppPrototyping_1.png" alt="Android Mobile Applications Prototyping 1">
+</div>
+
+### iOS Mobile Applications Prototyping
+
+<div align="center">
+  <img src="iOSMobileAppPrototyping.png" alt="iOS Mobile Applications Prototyping 1">
+</div>
+
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+<div align="center">
+  <img src="WebAppWireframe_1.png" alt="Web App Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_2.png" alt="Web App Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_3.png" alt="Web App Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_4.png" alt="Web App Wireframe 4">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_5.png" alt="Web App Wireframe 5">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_6.png" alt="Web App Wireframe 6">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_7.png" alt="Web App Wireframe 7">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_8.png" alt="Web App Wireframe 8">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_9.png" alt="Web App Wireframe 9">
+</div>
+
+### Web Applications Wireflow Diagrams
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_1.png" alt="Web App Wireflow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_2.png" alt="Web App Wireflow Diagram 2">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_3.png" alt="Web App Wireflow Diagram 3">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_4.png" alt="Web App Wireflow Diagram 4">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_5.png" alt="Web App Wireflow Diagram 5">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_6.png" alt="Web App Wireflow Diagram 6">
+</div>
+
+### Web Applications Mock-ups
+
+<div align="center">
+  <img src="WebAppMockup_1.png" alt="Web App Mockup 1">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_2.png" alt="Web App Mockup 2">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_3.png" alt="Web App Mockup 3">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_4.png" alt="Web App Mockup 4">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_5.png" alt="Web App Mockup 5">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_6.png" alt="Web App Mockup 6">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_7.png" alt="Web App Mockup 7">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_8.png" alt="Web App Mockup 8">
+</div>
+
+### Web Applications User Flow Diagrams
+
+<div align="center">
+  <img src="WebAppUserFlowDiagram_1.png" alt="Web Applications User Flow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="WebAppUserFlowDiagram_2.png" alt="Web Applications User Flow Diagram 2">
+</div>
+
+## 4.7 Web Applications Prototyping
+
+## Domain-Drive Software Architecture
+
+### Software Architecture Context Diagram
+
+
+<div align="center">
+  <img src="SoftwareArchitectureContextDiagram_1.png" alt="Software Architecture Context Diagram 1">
+</div>
+
+### Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="SoftwareArchitectureContainerDiagrams_1.png" alt="Software Architecture Container Diagram 1">
+</div>
+
+### Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="SoftwareArchitectureComponentsDiagrams_1.png" alt="Software Architecture Component Diagram 1">
+</div>
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+En un diagrama de clases, lo que haremos es diseñar y modelar la estructura estática de un sistema orientado a objetos.
+
+<div align="center">
+  <img src="classDiagram_1.png" alt="Class Diagram 1">
+</div>
+
+Link for LucidChart: 
+https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_loc=-1886%2C-1663%2C3923%2C1908%2C0_0&invitationId=inv_f6f786bf-d4b8-4d72-bd35-97214589f959
+
+### Class Dictionary
+
+En esta sección se definirán las clase que se identificaron en el Class Diagram:
+
+- Class Vehicules: Representa los vehículos en el sistema.
+- Class ReportVehicule: Representa los informes relacionados con los vehículos en el sistema.
+- Class ReportInfraction: Representa los informes de infracción relacionados con los vehículos en el sistema.
+- Class VehiculeFeatures: Representa las características de los vehículos en el sistema.
+- Class Features: Representa las características en general.
+- Class Carriers: Representa a los transportistas en el sistema.
+- Class CarrierContacts: Representa los contactos relacionados con los transportistas en el sistema.
+- Class Managers: Representa a los gerentes en el sistema.
+- Class ManagerContacts: Representa los contactos relacionados con los gerentes en el sistema.
+- Class Items: Representa los artículos en el sistema.
+- Class Packet: Representa los paquetes en el sistema.
+- Class ReportPacket: Representa los informes relacionados con los paquetes en el sistema.
+- Class HasShipped: Representa los envíos en el sistema.
+- Class TransportationCost: Representa los costos de transporte en el sistema.
+- Class ReportAccident: Representa los informes relacionados con los accidentes en el sistema.
+- Class Destination: Representa los destinos en el sistema.
+- Class VehiculeRoute: Representa las rutas de vehículos en el sistema.
+
+## Database Design
+
+### Relational/Non-Relational Database Diagram
+
+<div align="center">
+  <img src="relationaDatabaseDiagram_1.png" alt="Relational Database Diagram 1">
+</div>
+
+Link for Vertabelo: 
+https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028
