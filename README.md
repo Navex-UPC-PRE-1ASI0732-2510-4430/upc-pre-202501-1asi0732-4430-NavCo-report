@@ -217,9 +217,9 @@ NavEx es una solución digital integral desarrollada para enfrentar los retos de
 | **Integrante**                             | Anthony Brahan Loarte Matos        |
 |--------------------------------------------|------------------------------------|
 | **Código del Estudiante**                  | U20211D563                         |
-| **Carrera**                                | _( )_                              |
+| **Carrera**                                | Ingeniería de Software             |
 |                                            |                                    |
-| _Sin descripción registrada._             | ![Foto](url-de-la-imagen)          |
+| Soy Anthony Brahan Loarte Matos, estudiante de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos  en C++, Java, MySQL Server, Phyton, Html y CSS.            | <img src="https://github.com/TempSound/Informe/assets/107071662/d8eb40d2-6761-4e16-aa74-809bebdeded2" alt="Anthony Loarte" border="0">           |
 ---
 
 | **Integrante**                             | Cameron Charllotte Bustamante Leveau |
