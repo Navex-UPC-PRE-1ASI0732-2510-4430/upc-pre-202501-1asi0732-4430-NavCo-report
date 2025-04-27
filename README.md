@@ -1504,3 +1504,1251 @@ Figura 18
 *Impact Mapping para nuestro segundo User Persona*
 
 ![](/impact-map5.png)
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+> En esta sección, vamos a exponer el plan que hemos desarrollado para
+> el diseño, los estilos y la apariencia de nuestra página web y las
+> páginas de nuestra aplicación, con el fin de asegurar que nuestros
+> usuarios disfruten de una interfaz que sea fácil de usar y amigable.
+> Para alcanzar este objetivo, hemos decidido utilizar elementos
+> visuales que sean tanto claros como estéticamente agradables, al mismo
+> tiempo que hemos establecido ciertas restricciones para evitar la
+> inclusión de elementos gráficos poco atractivos.
+
+### 4.1.1. General Style Guidelines
+
+- Colores: La consideración de los colores es crucial porque influyen en
+  la coherencia visual, la legibilidad y accesibilidad del diseño, la
+  capacidad para transmitir mensajes y emociones, así como en la
+  atracción visual y la usabilidad del producto final. En resumen, los
+  colores dentro de las directrices de estilo son fundamentales para
+  crear diseños atractivos, legibles, accesibles y coherentes que
+  comuniquen eficazmente el mensaje deseado y mejoren la experiencia del
+  usuario.
+<div align="center"> <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWvQa6-x7sSB5DNpO2Li90ZSJqHoZtt0DrurxD2VOEt7gqhTgrLc0sFLp-UvptrLPT4Qh01oBd8cCc-1FQGFDBiBGNGHvMqTFAhhA3w3ywoidKgkAp0HYYHNS5EF62T5jbkT66zw?key=KzZRSb9Fxkyo9tuZUz3NPa75" width="60%" alt="5"/></div>
+<br>
+- Tipografía: Las directrices de estilo, que incluyen pautas para la
+  tipografía, son esenciales para garantizar la coherencia y legibilidad
+  del contenido. La consideración de la tipografía es crucial porque
+  influye en la percepción del mensaje, la jerarquía de la información y
+  la experiencia del usuario. Establecer reglas sobre el tamaño, el
+  estilo y el espaciado de la fuente ayuda a mantener la coherencia
+  visual y a garantizar una lectura cómoda, mientras que la elección de
+  tipos de letra adecuados puede reflejar la identidad de la marca y
+  transmitir emociones específicas. En resumen, las directrices de
+  estilo para la tipografía son fundamentales para crear diseños
+  legibles, coherentes y efectivos que mejoren la experiencia del
+  usuario y fortalezcan la identidad de la marca.
+
+<div align="center"> <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9JspLWITtRheL3lPUsGEl4ieqpNSAICXdy3c4nGO3TXinV0DeSevOGvPGSJj0n0t-lfgIelaLoY4e-OhxuS9VsETgn9Sa5Cx5iHxR06-FiKTq6Ofsgsj9c08xYp9buTZJx713xw?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
+<br>
+
+- Botones y Iconos: Los botones están diseñados para ser intuitivos,
+  accesibles y funcionales. Se utilizan para realizar acciones clave
+  dentro de la app. Tienen colores que indican su jerarquía (primarios,
+  secundarios, etc.). Los iconos juegan un rol esencial en la
+  comunicación visual de la app. Se incluyen:
+
+- **Redes sociales:** íconos de plataformas como Facebook, Google, y X
+  para facilitar el acceso o inicio de sesión.
+
+- **Funcionalidades de transporte y app:**
+
+  - Camión: gestión de flota o vehículos
+
+<!-- -->
+
+- Organización: estructura empresarial o configuración de cuenta
+
+- Estadísticas: panel de control, rendimiento, reportes
+
+- Notas: comentarios, observaciones o reportes del conductor
+
+- Locación: ubicación en tiempo real, direcciones, mapas
+
+<!-- -->
+
+- **Accesibilidad y experiencia:** Iconos para activar funciones como el
+  modo oscuro, dejar de ver, log out, etc.
+
+<div align="center">  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTY53DDHCFkcLzelNZUxxrsBxrBBLWFeuurYTmZegK5BVpaHoXs_wIdCXCxVQbnssdU-4OGRa5sY5-V0lgE0OivyM9oz7J89C--qn3iUTGDRgW4c1C2HbxTx4iPCWS82vfR-ruRg?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
+<br>
+
+<div align="center">  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdMOFPdGZQnRNrGzrvy4gnRmOn9YetwYTl4v6r49CwiOhXzaMA08HZN23xFlzAw3fxqrNkKZn6wZt3QlQlw8ce0Jq1N09m9KENj9ZHOi4eqcoJymh_2V2N-H-9vzvvi4q4_ZiNRlw?key=KzZRSb9Fxkyo9tuZUz3NPa75" alt="5"/></div>
+<br>
+
+- Tono de comunicación y lenguaje aplicado: El tono de comunicación es
+  un aspecto muy importante de los estilos que planeamos integrar en las
+  páginas. Considerar el tono de comunicación implica definir si el
+  contenido será formal, informal, técnico, amigable, entre otros. Estas
+  decisiones afectan la manera en que la audiencia percibe la marca y su
+  mensaje, así como la efectividad de la comunicación. Además, las
+  directrices de estilo establecen el lenguaje aplicado, incluyendo la
+  elección de palabras, la estructura de las oraciones y el nivel de
+  complejidad del texto, lo cual impacta en la claridad, la
+  accesibilidad y la capacidad de conexión con la audiencia.
+
+### 4.1.2. Web Style Guidelines
+En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de interacción para responsive web interfaces.
+
+### 4.1.3. Mobile Style Guidelines
+
+#### 4.1.3.1. iOS Mobile Style Guidelines
+
+Esta sección establece las pautas de diseño específicas para dispositivos móviles, asegurando que la aplicación mantenga una experiencia coherente, nativa y óptima en iOS.
+
+1.  **Navegación:** En esta sección se tomaron las siguientes decisiones
+    de diseño para garantizar una experiencia fluida e intuitiva para el
+    usuario.
+
+- Menú lateral accesible desde un ícono de menú hamburguesa.
+
+- Pantallas a pantalla completa, sin barra inferior.
+
+- Transición clara entre secciones como Perfil, Envíos, Reportes y
+  Vehículo.
+
+2.  **Botones**
+
+- Botones rectangulares con bordes redondeados y color naranja sólido
+  para acciones principales (Ingresar, Actualizar datos, Asignar nuevo
+  envío).
+
+- Texto en mayúsculas y centrado en blanco.
+
+- Sin íconos dentro de los botones, manteniendo simplicidad
+
+3.  **Iconografía**
+
+- Usados para representar funciones:
+
+  - **Camión:** pantalla principal/envíos
+
+  - **Perfil (persona):** usuario
+
+  - **Advertencia:** reportes
+
+  - **Auto:** vehículo
+
+  - **Grupo de personas:** conductores
+
+- Estilo visual simple, sin contorno ni detalle adicional.
+
+4.  **Formularios**
+
+- Campos de entrada de bordes redondeados y fondo blanco.
+
+- Campo en stack vertical con etiquetas dentro del campo (placeholder).
+
+- Espaciado claro entre cada input, con estructura limpia.
+
+5.  **Colores y estilo visual**
+
+- Fondo oscuro degradado azul-grisáceo (#1B1F29 aprox.).
+
+- Acentos en **naranja vibrante** y blanco para texto principal.
+
+- Uso consistente del color para guiar al usuario visualmente (botones,
+  íconos, secciones).
+
+#### 4.1.3.2. Android Mobile Style Guidelines
+
+Esta sección establece las pautas de diseño específicas para dispositivos Android, asegurando que la aplicación mantenga una experiencia visual y de interacción coherente con las expectativas del sistema y los usuarios.
+
+1.  **Navegación**
+
+- Menú lateral tipo drawer, accesible desde el ícono de menú hamburguesa
+  ubicado en la parte superior izquierda.
+
+- Las pantallas se presentan a pantalla completa, sin navegación
+  inferior.
+
+- Jerarquía visual clara de secciones: Perfil, Envíos, Reportes,
+  Vehículo y Conductores, con navegación directa desde el menú.
+
+- Transiciones suaves y coherentes entre módulos.
+
+2.  **Botones**
+
+- Botones con fondo naranja sólido, de forma rectangular y bordes
+  redondeados.
+
+- Tipografía clara y centrada en blanco, manteniendo alta legibilidad.
+
+- Utilizados para acciones clave como: Ingresar, Actualizar Datos,
+  Asignar nuevo envío, Eliminar envío.
+
+- Se mantiene una estética sin íconos en los botones para favorecer una
+  interfaz limpia y directa.
+
+3.  **Iconografía**
+
+- Íconos simples dentro de círculos con fondo degradado
+  naranja/amarillo, diseñados para representar funciones específicas:
+
+  - Camión: Envíos o pantalla principal
+
+  - Persona: Perfil del usuario
+
+  - Señal de advertencia: Reportes
+
+  - Automóvil: Información del vehículo
+
+  - Grupo: Gestión de conductores
+
+- Estilo plano, sin contornos adicionales, lo que favorece una lectura
+  rápida y universalidad visual.
+
+4.  **Formularios**
+
+- Campos de entrada con borde redondeado y fondo blanco.
+
+- Distribución vertical en bloques claramente separados, como en los
+  formularios de registro o asignación de envío.
+
+- Espaciado generoso entre campos y botones para evitar errores de
+  interacción y facilitar el uso con los dedos.
+
+- Uso de placeholders como etiquetas internas para identificar cada
+  campo.
+
+5.  **Colores y estilo visual**
+
+- Fondo predominante en tonos oscuros azulados o gris oscuro.
+
+- Acentos en naranja vibrante para resaltar acciones, íconos y botones.
+
+- Texto en blanco o gris claro para garantizar contraste y buena
+  legibilidad en modo oscuro.
+
+- El diseño mantiene consistencia cromática y jerarquía visual clara en
+  todas las pantallas.
+
+6.  **Adaptaciones específicas en Android**
+
+- Tamaño y espaciado: Los botones y campos de formulario están
+  ligeramente más compactos en comparación con iOS, optimizando el uso
+  del espacio en pantalla.
+
+- Tipografía: Se utiliza Roboto, la fuente del sistema Android, para
+  mantener coherencia visual con el entorno nativo.
+
+- Navegación y comportamiento: Las acciones principales pueden colocarse
+  como botones visibles en pantalla o considerar el uso de Floating
+  Action Buttons (FAB) si la evolución del diseño lo permite.
+
+- Iconografía: Los íconos planos y simples son compatibles con Material
+  Icons, y su diseño está optimizado para integrarse naturalmente con
+  las interfaces Android.
+
+## 4.2. Information Architecture
+
+### 4.2.1 Organization Systems
+
+> En esta sección, se detalla cómo se organizará la información en
+> grupos específicos, aplicando diferentes sistemas de organización
+> según la naturaleza y el propósito del contenido. Se explicará en qué
+> casos se empleará la organización visual del contenido, ya sea de
+> forma jerárquica para establecer prioridades visuales (visual
+> hierarchy), secuencial para guiar paso a paso a los usuarios en la
+> realización de tareas (step-by-step to accomplish), o matricial para
+> presentar información de manera estructurada y comparativa.
+
+1.  Sistemas de Organización Visual del Contenido
+
+- En nuestra barra de navegación, hemos destacado elementos clave como
+  \"Inicio\", \"Acerca de Nosotros\", \"Equipo\", \"Servicios\",
+  \"Precios\" y \"Contacto\" para proporcionar una jerarquía clara y
+  guiar a los usuarios a través de la página.
+
+- Implementamos una organización secuencial en procesos importantes,
+  como el registro de usuarios y la solicitud de contacto. Esto se
+  traduce en una experiencia paso a paso que facilita la interacción del
+  usuario y reduce la posibilidad de confusiones. Organización
+  Matricial.
+
+- En secciones donde se presenta información compleja, utilizamos una
+  organización matricial para una presentación clara y concisa.
+
+2.  Esquemas de Categorización de Contenido
+
+- En la sección de \"Equipo\", hemos ordenado los nombres de los
+  miembros alfabéticamente. Esto facilita a los usuarios encontrar a un
+  miembro específico del equipo de manera rápida y sencilla. Por
+  Tópicos:
+
+- En la sección de \"Servicios\", agrupamos los diferentes servicios
+  ofrecidos en categorías temáticas. Esta organización por tópicos
+  permite a los usuarios explorar los servicios de manera más intuitiva
+  y encontrar lo que están buscando con mayor facilidad. Según
+  Audiencia:
+
+- Adaptamos el contenido según la audiencia en la sección de
+  \"Servicios\". Esto significa que presentamos información específica
+  para diferentes grupos de usuarios, como clientes corporativos versus
+  individuales, para satisfacer mejor sus necesidades y expectativas.
+
+### 4.2.2. Labeling Systems
+
+> En esta sección, identificamos y describimos las etiquetas específicas
+> que se utilizarán para representar conjuntos de información y sus
+> asociaciones en la página web o aplicación, priorizando la simplicidad
+> y la claridad en la presentación de datos. Cada etiqueta se selecciona
+> para transmitir de manera efectiva su función y su relación con otros
+> elementos del sistema, con el fin de optimizar la experiencia del
+> usuario y promover una navegación fluida y sin contratiempos.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+> Para mejorar la visibilidad y optimizar el rendimiento de nuestra
+> Landing Page en los motores de búsqueda, hemos implementado los
+> siguientes SEO Tags y Meta Tags con sus respectivos valores:
+
+- Title: NavEx - Tu solución para la gestión empresarial
+
+- Description: Descubre cómo NavEx ofrece una solución completa para la
+  gestión de flotas en el sector del transporte empresarial. Nuestra
+  plataforma integral ofrece una amplia gama de características
+  diseñadas para simplificar y optimizar las operaciones de transporte,
+  incluyendo estadísticas de rendimiento, reporte de infracciones,
+  registro de incidencias y seguimiento de envíos exitosos. Con planes
+  de suscripción flexibles y herramientas fáciles de usar, NavEx se
+  adapta a las necesidades específicas de cada empresa, mejorando la
+  eficiencia operativa y garantizando la satisfacción del cliente en el
+  competitivo mercado del transporte.
+
+- Keywords: UX, Estrategia, Transformación Digital, Aplicaciones,
+  Desarrollo de Software, Gestión Empresarial, NavEx.
+
+- Author: Equipo de Desarrollo de NavEx.
+
+> Estas etiquetas se han incorporado en el encabezado de nuestra Landing
+> Page para proporcionar información relevante a los motores de búsqueda
+> y mejorar nuestra clasificación en los resultados de búsqueda. Además,
+> hemos asegurado que nuestro sitio sea indexado y seguido por los
+> motores de búsqueda para garantizar una mayor visibilidad en la web.
+
+### 4.2.4. Searching Systems
+
+> En esta sección, se detallan las estrategias clave diseñadas para
+> guiar a los usuarios a través del Landing Page y las aplicaciones de
+> la empresa. Se describe cómo estas acciones y técnicas están
+> destinadas a facilitar a los usuarios el logro de sus objetivos y a
+> garantizar una interacción satisfactoria con el producto. Además, se
+> explora la forma en que los usuarios navegan por el contenido,
+> proporcionando una visión general de la experiencia de usuario
+> planificada. Para brindar una experiencia fluida y satisfactoria, se
+> implementan las siguientes acciones y técnicas:
+
+1.  **Menú de navegación claro:** Se ha implementado un menú de navegación
+    en la parte superior del Landing Page con enlaces a las secciones
+    principales, como Inicio, Acerca de Nosotros, Equipo, Servicios,
+    Precios y Contacto. Esto permite a los usuarios acceder rápidamente
+    a las áreas de interés
+
+2.  **Botones de llamada a la acción (CTA):** Se han agregado botones CTA
+    para descargar la aplicación desde la App Store y Google Play Store,
+    lo que facilita a los usuarios acceder a la aplicación desde sus
+    dispositivos móviles.
+
+3.  **Navegación por desplazamiento:** El Landing Page utiliza un diseño de
+    desplazamiento único, lo que permite a los usuarios recorrer el
+    contenido de manera secuencial. Cada sección está claramente marcada
+    y se puede acceder desplazándose hacia abajo.
+
+4.  **Enlaces internos:** Se han incluido enlaces internos dentro del
+    contenido para facilitar la navegación entre diferentes secciones
+    del Landing Page. Por ejemplo, enlaces a secciones como Acerca de
+    Nosotros, Servicios y Precios.
+
+5.  **Barra de idiomas:** Se ha agregado una barra de idiomas que permite a
+    los usuarios cambiar entre inglés y español, lo que mejora la
+    accesibilidad y la experiencia del usuario para aquellos que hablan
+    diferentes idiomas.
+
+6.  **Diseño responsive:** El diseño del Landing Page es responsive, lo que
+    significa que se adapta automáticamente a diferentes tamaños de
+    pantalla, garantizando una experiencia de usuario consistente en
+    dispositivos móviles y de escritorio.
+
+## Landing Page UI Design
+En esta sección, nos encargaremos de crear una página visualmente atractiva y altamente funcional que cumpla con el objetivo específico. El diseño debe ser intuitivo, optimizado para todos los dispositivos, y debe guiar al usuario de manera clara hacia la acción deseada.
+
+### Landing Page Wireframe
+Una descripción de un wireframe para una Landing Page (página de aterrizaje) debe transmitir la estructura, distribución y propósito de cada sección, sin entrar aún en diseño visual detallado (colores, tipografías, etc.). Aquí tienes un ejemplo de descripción clara y profesional:
+
+<div align="center">
+  <img src="landingWireframe_1.png" alt="Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_2.png" alt="Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_3.png" alt="Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="landingWireframe_4.png" alt="Wireframe 4">
+</div>
+
+
+Link: 
+<br>
+https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
+
+
+### Landing Page Mock-up
+
+<div align="center">
+  <img src="landingMockup_1.png" alt="Landing Page Mock-up 1">
+</div>
+
+<div align="center">
+  <img src="landingMockup_2.png" alt="Landing Page Mock-up 2">
+</div>
+
+<div align="center">
+  <img src="landingMockup_3.png" alt="Landing Page Mock-up 3">
+</div>
+
+<div align="center">
+  <img src="landingMockup_4.png" alt="Landing Page Mock-up 4">
+</div>
+
+<div align="center">
+  <img src="landingMockup_5.png" alt="Landing Page Mock-up 5">
+</div>
+
+<div align="center">
+  <img src="landingMockup_6.png" alt="Landing Page Mock-up 6">
+</div>
+
+<div align="center">
+  <img src="landingMockup_7.png" alt="Landing Page Mock-up 7">
+</div>
+
+Link:
+<br>
+https://www.figma.com/design/SeRegqd0rdQsp1TZdkprDO/Untitled?node-id=0-1&t=MBbPViGL7KXGe47A-1
+
+
+## Mobile Applications UX/UI Design
+###  Mobile Applications Wireframes
+
+<div align="center">
+  <img src="mobileAppWireframe_1.png" alt="Mobile App Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_2.png" alt="Mobile App Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_3.png" alt="Mobile App Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppWireframe_4.png" alt="Mobile App Wireframe 4">
+</div>
+
+
+### Mobile Applications Wireflow Diagrams
+
+<div align="center">
+  <img src="mobileAppWireflowDiagram_1.png" alt="Mobile App Wireframe 4">
+</div>
+
+### Mobile Applications Mock-ups
+
+<div align="center">
+  <img src="mobileAppMockup_1.png" alt="Mobile App Mockup 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_2.png" alt="Mobile App Mockup 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_3.png" alt="Mobile App Mockup 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppMockup_4.png" alt="Mobile App Mockup 4">
+</div>
+
+### Mobile Applications User Flow Diagrams
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_1.png" alt="Mobile App User Flow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_2.png" alt="Mobile App User Flow Diagram 2">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_3.png" alt="Mobile App User Flow Diagram 3">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_4.png" alt="Mobile App User Flow Diagram 4">
+</div>
+
+<div align="center">
+  <img src="mobileAppUserFlowDiagram_5.png" alt="Mobile App User Flow Diagram 5">
+</div>
+
+
+
+Link: <br>
+https://www.canva.com/design/DAGlqlpZ3gM/uLmI_AubnjlfINhVzlLtKQ/edit?utm_content=DAGlqlpZ3gM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Mobile Applications Prototyping
+
+### Android Mobile Applications Prototyping
+
+<div align="center">
+  <img src="androidMobileAppPrototyping_1.png" alt="Android Mobile Applications Prototyping 1">
+</div>
+
+### iOS Mobile Applications Prototyping
+
+<div align="center">
+  <img src="iOSMobileAppPrototyping.png" alt="iOS Mobile Applications Prototyping 1">
+</div>
+
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+<div align="center">
+  <img src="WebAppWireframe_1.png" alt="Web App Wireframe 1">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_2.png" alt="Web App Wireframe 2">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_3.png" alt="Web App Wireframe 3">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_4.png" alt="Web App Wireframe 4">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_5.png" alt="Web App Wireframe 5">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_6.png" alt="Web App Wireframe 6">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_7.png" alt="Web App Wireframe 7">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_8.png" alt="Web App Wireframe 8">
+</div>
+
+<div align="center">
+  <img src="WebAppWireframe_9.png" alt="Web App Wireframe 9">
+</div>
+
+### Web Applications Wireflow Diagrams
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_1.png" alt="Web App Wireflow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_2.png" alt="Web App Wireflow Diagram 2">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_3.png" alt="Web App Wireflow Diagram 3">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_4.png" alt="Web App Wireflow Diagram 4">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_5.png" alt="Web App Wireflow Diagram 5">
+</div>
+
+<div align="center">
+  <img src="WebAppWireflowDiagram_6.png" alt="Web App Wireflow Diagram 6">
+</div>
+
+### Web Applications Mock-ups
+
+<div align="center">
+  <img src="WebAppMockup_1.png" alt="Web App Mockup 1">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_2.png" alt="Web App Mockup 2">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_3.png" alt="Web App Mockup 3">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_4.png" alt="Web App Mockup 4">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_5.png" alt="Web App Mockup 5">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_6.png" alt="Web App Mockup 6">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_7.png" alt="Web App Mockup 7">
+</div>
+
+<div align="center">
+  <img src="WebAppMockup_8.png" alt="Web App Mockup 8">
+</div>
+
+### Web Applications User Flow Diagrams
+
+<div align="center">
+  <img src="WebAppUserFlowDiagram_1.png" alt="Web Applications User Flow Diagram 1">
+</div>
+
+<div align="center">
+  <img src="WebAppUserFlowDiagram_2.png" alt="Web Applications User Flow Diagram 2">
+</div>
+
+## 4.7 Web Applications Prototyping
+
+## Domain-Drive Software Architecture
+
+### Software Architecture Context Diagram
+
+
+<div align="center">
+  <img src="SoftwareArchitectureContextDiagram_1.png" alt="Software Architecture Context Diagram 1">
+</div>
+
+### Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="SoftwareArchitectureContainerDiagrams_1.png" alt="Software Architecture Container Diagram 1">
+</div>
+
+### Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="SoftwareArchitectureComponentsDiagrams_1.png" alt="Software Architecture Component Diagram 1">
+</div>
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+En un diagrama de clases, lo que haremos es diseñar y modelar la estructura estática de un sistema orientado a objetos.
+
+<div align="center">
+  <img src="classDiagram_1.png" alt="Class Diagram 1">
+</div>
+
+Link for LucidChart: <br>
+https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_loc=-1886%2C-1663%2C3923%2C1908%2C0_0&invitationId=inv_f6f786bf-d4b8-4d72-bd35-97214589f959
+
+### Class Dictionary
+
+En esta sección se definirán las clase que se identificaron en el Class Diagram:
+
+- Class Vehicules: Representa los vehículos en el sistema.
+
+- Class ReportVehicule: Representa los informes relacionados con los vehículos en el sistema.
+
+- Class ReportInfraction: Representa los informes de infracción relacionados con los vehículos en el sistema.
+
+- Class VehiculeFeatures: Representa las características de los vehículos en el sistema.
+
+- Class Features: Representa las características en general.
+
+- Class Carriers: Representa a los transportistas en el sistema.
+
+- Class CarrierContacts: Representa los contactos relacionados con los transportistas en el sistema.
+
+- Class Managers: Representa a los gerentes en el sistema.
+
+- Class ManagerContacts: Representa los contactos relacionados con los gerentes en el sistema.
+
+- Class Items: Representa los artículos en el sistema.
+
+- Class Packet: Representa los paquetes en el sistema.
+
+- Class ReportPacket: Representa los informes relacionados con los paquetes en el sistema.
+
+- Class HasShipped: Representa los envíos en el sistema.
+
+- Class TransportationCost: Representa los costos de transporte en el sistema.
+
+- Class ReportAccident: Representa los informes relacionados con los accidentes en el sistema.
+
+- Class Destination: Representa los destinos en el sistema.
+
+- Class VehiculeRoute: Representa las rutas de vehículos en el sistema.
+
+## Database Design
+
+### Relational/Non-Relational Database Diagram
+
+<div align="center">
+  <img src="relationaDatabaseDiagram_1.png" alt="Relational Database Diagram 1">
+</div>
+
+Link for Vertabelo: <br>
+https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028
+
+# Capítulo V: Product Implementation
+
+## 5.1. Software Configuration Management
+
+ Para administrar la configuración de software de nuestra app, nos
+ centraremos en tres aspectos principales: el control del código
+ fuente, que implica gestionar las versiones y establecer una
+ estructura organizada para el código; la configuración del entorno de
+ desarrollo, donde nos aseguramos de que todos los miembros del equipo
+ cuenten con herramientas consistentes; y la configuración de
+ implementación, que se ocupa del despliegue en entornos de producción.
+ Estas decisiones garantizan la coherencia y eficacia a lo largo de
+ todo el ciclo de vida de la aplicación.
+
+### 5.1.1. Software Development Environment Configuration
+
+ En esta sección, detallaremos y explicaremos los productos utilizados
+ en el proyecto digital, así como su propósito y cómo se accede a cada
+ uno de ellos y siguiendo las restricciones establecidas.
+
+1.  Project Management: Para gestionar el proyecto, se utilizaron
+    herramientas de comunicación y control de versiones. Se estableció
+    una organización en GitHub para gestionar el código y las versiones
+    del proyecto. Además, para las reuniones de equipo y la comunicación
+    interna, se utilizaron plataformas como Google Meet y Discord.
+
+- Github: [[https://github.com/]{.underline}](https://github.com/)
+
+- Google Meet:
+  [[https://meet.google.com/]{.underline}](https://meet.google.com/)
+
+- Discord:
+  [[https://discord.com/download]{.underline}](https://discord.com/download)
+
+2.  Requirements Management: Para la gestión de requisitos se llevó a
+    cabo mediante el uso de herramientas personalizadas que permitieron
+    recopilar, organizar y priorizar los requisitos del proyecto de
+    manera eficiente. Se utilizó Trello, una herramienta visual para la
+    gestión de requisitos, permitiendo la creación tableros
+    personalizados para organizar y priorizar las tareas del proyecto
+    que permitió realizar los Task board y Pivotal Tracker, utilizado
+    para gestionar y realizar un seguimiento del Product Backlog del
+    proyecto.
+
+- Trello: [[https://trello.com/es]{.underline}](https://trello.com/es)
+
+- Pivotal Tracker:
+  [[https://www.pivotaltracker.com/]{.underline}](https://www.pivotaltracker.com/)
+
+3.  Product UX/UI Design:Para el diseño de la experiencia de usuario
+    (UX) y diseño de interfaz de usuario (UI) del producto se utilizó la
+    herramienta Figma, esta herramienta permitió al equipo crear
+    wireframes, mockups y prototipos interactivos para visualizar y
+    validar el diseño del producto antes de la implementación. Por otro
+    lado, para la creación de User Personas, Empathy Maps, Journey Maps
+    e Impact Maps se utilizó UXPressia y para la creación de As-Is y
+    To-Be Scenario Maps se utilizó Miro.
+
+- Figma:
+  [[https://www.figma.com/downloads/]{.underline}](https://www.figma.com/downloads/)
+
+- UXPressia:
+  [[https://uxpressia.com/]{.underline}](https://uxpressia.com/)
+
+- Miro: [[https://miro.com/es/]{.underline}](https://miro.com/es/)
+
+4.  Software Development: Para el desarrollo de software se utilizó
+    HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la
+    startup, por otro lado, para la creación del Mobile Application de
+    la startup se utilizará Kotlin por el lado del Frontend y en el
+    Backend se utilizará ASP.NET Core Framework y C#. Para trabajar con
+    estas tecnologías, se emplearon los siguientes IDEs: Visual Studio
+    Code: Herramienta principal para el desarrollo Frontend y Backend,
+    que ofrece una amplia gama de extensiones para mejorar la
+    productividad del equipo. (En nuestro caso solo fue utilizado para
+    la Landing Page). JetBrains Toolbox: Proporciona un entorno
+    integrado para el desarrollo web, con características avanzadas de
+    edición y depuración que facilitan la creación de aplicaciones web
+    robustas.
+
+- Visual Studio Code:
+  [[https://code.visualstudio.com/]{.underline}](https://code.visualstudio.com/)
+
+- JetBrains Toolbox:
+  [[https://www.jetbrains.com/toolbox-app/]{.underline}](https://www.jetbrains.com/toolbox-app/)
+
+5.  Software Documentation: La documentación del software se realizó
+    utilizando GitHub, además de ser utilizado como plataforma de
+    control de versiones, GitHub también se empleó para alojar la
+    documentación técnica del proyecto. Se crearon repositorios
+    específicos para almacenar toda la información. La documentación se
+    gestionó mediante archivos Markdown para facilitar la creación y
+    edición colaborativa.
+
+- GitHub: [[https://github.com/]{.underline}](https://github.com/)
+
+### 5.1.2. Source Code Management
+
+ En este proyecto, utilizaremos GitHub como plataforma y sistema de
+ control de versiones para gestionar el código fuente de nuestras
+ diferentes partes del proyecto dentro de una organización. GitFlow
+ Workflow Implementaremos el modelo GitFlow como Workflow de control de
+ versiones, siguiendo las convenciones y prácticas establecidas para
+ una gestión eficiente del desarrollo de software.
+
+1.  Branches Principales
+
+- main: Rama principal del repositorio, contiene el código estable y
+  liberado.
+
+- develop: Rama de desarrollo donde se integran las nuevas
+  características y mejoras.
+
+2.  Branches de Funcionalidades (Feature Branches)
+
+- Para cada nueva funcionalidad, se creará una rama de funcionalidad con
+  el prefijo feature/, seguido del nombre descriptivo de la función o
+  característica. En nuestro caso, creamos 5 branches de características
+  correspondientes a los 5 capítulos de nuestro informe, donde se
+  realizan los commits respectivos antes de fusionarlos con la rama
+  develop cuando estén listos.
+
+3.  Branches de Lanzamiento (Release Branches) y Branches de Corrección
+    (Hotfix Branches): En nuestro caso, no hicimos uso de estas branches
+    ya que no lo vimos necesario al ser solo documentación del reporte.
+
+ Versionado Semántico Seguimos la especificación Semantic Versioning
+ 2.0.0 para nombrar nuestras versiones, siguiendo el formato:
+ MAJOR.MINOR.PATCH.
+
+ Conventional Commits Aplicamos el estándar de Conventional Commits
+ para los mensajes de commit, siguiendo un formato estructurado que
+ describe claramente los cambios realizados. Esto nos ayudó a
+ automatizar la generación de notas de versión y facilitar la
+ comprensión del historial de cambios del proyecto.
+
+ Con estas prácticas y convenciones adaptadas a una organización en
+ GitHub, buscamos mantener un flujo de desarrollo ordenado,
+ colaborativo y bien documentado.
+
+### 5.1.3. Source Code Style Guide & Conventions
+ En esta sección, se establece las convenciones y prácticas que
+ seguiremos para nombrar elementos y programar en los lenguajes
+ utilizados en la solución, que incluyen HTML, CSS, JavaScript, Kotlin,
+ C#, y Gherkin para los archivos .feature. Todas las convenciones
+ seguirán la nomenclatura en inglés y adoptarán convenciones estándares
+ de codificación.
+
+1.  HTML y CSS:
+
+- Basado en las recomendaciones de W3C y otras fuentes de la comunidad,
+  se establecerán convenciones para el nombramiento de elementos hTML y
+  estilo de la codificación CSS.
+
+- Se seguirán las convenciones recomendadas por Google para HTML y CSS,
+  que incluyen el uso de indentaciones de 2 espacios, el uso de comillas
+  dobles para atributos y el uso de comentarios descriptivos.
+
+- Se utilizará la metodología BEM para organizar las clases CSS en
+  bloques, elementos y modificadores, lo que facilitará la modularidad y
+  la reutilización del código.
+
+- Se debe utilizar los elementos HTML de manera semántica para una
+  correcta descripción del contenido del sitio web, incluyendo el uso
+  adecuado de etiquetas.
+
+- Para el desarrollo con Vue.js, se adoptarán las convenciones
+  recomendadas por la comunidad de Vue, que incluyen el uso de
+  PascalCase para los nombres y componentes y el uso de camelCase para
+  las propiedades y métodos de los componentes.
+
+2.  JavaScript:
+
+- Se tomarán en cuenta las directrices proporcionadas por MDN para la
+  escritura de JavaScript, que incluyen el uso de nombres descriptivos
+  para variables y funciones en camelCase, el uso de declaración de
+  variables con let o const en lugar de var, y el uso de punto y coma al
+  final de cada declaración.
+
+- Se seguirán las convenciones de codificación recomendadas por Google
+  para JavaScript, que incluyen el uso de comillas simples para
+  literales de cadena, el uso de comentarios descriptivos y el uso de
+  funciones de flecha para expresiones de función.
+
+3.  Kotlin:
+
+- Se adoptarán las convenciones de codificación recomendadas por la
+  comunidad de aplicaciones Kotlin.
+
+4.  C#(ASP.NET Core)
+
+- Se seguirán las convenciones de codificación establecidas por
+  Microsoft para el lenguaje C#, que incluyen el uso de PascalCase para
+  nombres de clases y métodos, el uso de camelCase para nombres de
+  variables locales y parámetros, y el uso de comentarios XML para
+  documentar el código.
+
+- Para el desarrollo en ASP.NET Core, se adoptarán las directrices
+  proporcionadas por Microsoft en sus guías de codificación, que
+  incluyen el uso de inyección de dependencias, la separación clara
+  entre capas de la aplicación y el uso de modelos de vista para la
+  comunicación entre el controlador y la vista.
+
+5.  Gherkin
+
+- Se aplicarán las convenciones recomendadas para escribir
+  especificaciones legibles en Gherkin, que incluyen el uso de palabras
+  clave como Given, When y Then para describir el comportamiento del
+  sistema, el uso de un lenguaje sencillo y claro, y la organización de
+  los escenarios en contextos, acciones y resultados.
+
+- Se seguirán las mejores prácticas recomendadas por Cucumber para
+  escribir escenarios de prueba en Gherkin, que incluyen la
+  reutilización de pasos de prueba, la modularización de escenarios y la
+  escritura de pruebas autoexplicativas.
+
+Además de estas referencias, se promoverá el uso de buenas prácticas y
+metodologías
+
+> estándar en el desarrollo de software, como la modularidad, la
+> reutilización de código, la legibilidad del código, la optimización
+> del rendimiento y la seguridad. Con estas guías de estilo y
+> convenciones de codificación, buscamos asegurar la coherencia, la
+> calidad y la mantenibilidad del código a lo largo de todo el proyecto.
+
+### 5.1.4 Software Deployment Configuration
+
+> En esta sección, describiremos la configuración necesaria para
+> desplegar satisfactoriamente cada uno de los productos digitales de
+> nuestra solución, incluyendo Landing Page, los Web Services.
+
+Pasos para el despliegue
+
+1.  Landing Page:
+
+- Clonar o descargar el repositorio desde GitHub.
+
+- Configurar el servidor web para alojar la Landing Page.
+
+- Copiar los archivos HTML5, CSS y JavaScript en el directorio
+  correspondiente del servidor.
+
+- Configurar cualquier dependencia adicional, como bibliotecas de
+  JavaScript o imágenes.
+
+- Verificar que la Landing Page se cargue correctamente en el navegador.
+
+2.  Web Services (API):
+
+- Preparar el código fuente del servicio web, asegurando que esté
+  correctamente estructurado y documentado.
+
+- Configurar un entorno de desarrollo o pruebas para realizar pruebas
+  exhaustivas del servicio antes del despliegue.
+
+- Desplegar el código en un servidor adecuado para el entorno de
+  producción.
+
+- Configurar la seguridad y la autenticación según los requisitos del
+  sistema.
+
+- Documentar la API utilizando OpenAPI Specification para facilitar su
+  integración y uso por parte de otros sistemas.
+
+## 5.2 Product Implementation & Deployment
+
+### 5.2.1 Sprint Backlogs
+
+ El Sprint está centrado en la versión inicial de nuestro servicio web,
+ priorizando las historias de usuario identificadas. Nuestro objetivo
+ principal es proporcionar a los usuarios una experiencia inicial
+ sólida al presentar una navegación intuitiva y acceso rápido a las
+ funcionalidades relevantes. Al completar las tareas asociadas a las
+historias de usuario definidas, sentaremos una buena base para el
+ servicio web, asegurando que lo propuesto contribuya al éxito del
+ proyecto.
+
+
+
+### 5.2.2 Implemented Landing Page Evidence
+
+Se desarrolló e implementó una landing page funcional con diseño
+responsivo, orientada a captar usuarios y prestar los servicios clave de
+la plataforma.
+
+![](/landing.png)
+
+![](/landing1.png)
+
+Link:
+[[https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/]{.underline}](https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/)
+
+### 5.2.3 Implemented Web Application Evidence
+
+En NaVex se construyó la interfaz del usuario utilizando tecnologías web
+modernas (HTML, CSS, JavaScript y Vue), asegurando una navegación
+fluida, componentes interactivos y una experiencia de usuario optimizada
+en distintos dispositivos.
+
+![](/app1.png)
+
+![](/app2.png)
+
+![](/app3.png)
+
+![](/app4.png)
+
+![](/app5.png)
+
+![](/app6.png)
+
+![](/app7.png)
+
+![](/app8.png)
+
+### 5.2.4 Implemented Mobile Application Evidence
+
+![](/movil.png)
+
+![](/movil1.png)
+
+![](/movil2.png)
+
+![](/movil3.png)
+
+### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
+
+![](/backend1.png)
+
+![](/backend2.png)
+
+![](/backend3.png)
+
+### 5.2.6 RESTful API documentation
+
+![](/api1.png)
+
+![](/api2.png)
+
+### Team Collaboration Insights
+
+Durante este primer Sprint, hemos completado el desarrollo del Landing
+Page y hemos colaborado estrechamente en su implementación. La
+colaboración entre los miembros del equipo se refleja en los diversos
+commits realizados en el repositorio de GitHub, los cuales han sido
+debidamente documentados en las capturas de pantalla adjuntas. Para
+asegurar una colaboración efectiva, hemos implementado GitFlow como
+nuestra metodología de trabajo colaborativo en Git. Usando GitFlow,
+hemos creado ramas para cada una de las secciones de nuestra landing
+page.
+
+Esto nos ha permitido trabajar de manera organizada y centrarnos en
+completar correctamente las historias de usuario designadas para cada
+sección. En cuanto a la elaboración del código, hemos asignado a cada
+miembro del equipo una sección específica del landing page. Esta
+estrategia nos ha permitido avanzar de manera más eficiente y completar
+el trabajo antes de la fecha de entrega. Además, hemos realizado
+reuniones adicionales para intercambiar ideas y resolver cualquier duda
+o problema que pudiera surgir durante el desarrollo del landing page.
+Estas sesiones han contribuido de manera positiva al éxito del proyecto.
+A continuación, presentamos algunas capturas de pantalla que muestran
+los commits realizados por los miembros del equipo en GitHub:
+
+![](/team1.png)
+
+![](/team2.png)
+
+![](/commit1.png)
+
+![](/commit.png)
+
+## Video About-the-Product
+
+# Conclusiones y recomendaciones:
+
+La introducción del enfoque Lean UX en la etapa inicial del proyecto fue
+fundamental para establecer una comprensión profunda de las necesidades
+del usuario y orientar de forma efectiva el desarrollo de nuestra
+propuesta de servicio. Este enfoque facilitó la integración de
+metodologías ágiles y centradas en el usuario, permitiendo una mejor
+definición de los segmentos de mercado y una validación continua de las
+decisiones de diseño.
+
+El desarrollo de NavEx, una aplicación dirigida a transportistas y
+empresarios con flotas de transporte, se benefició significativamente de
+este marco metodológico. Gracias a un análisis exhaustivo de los
+principales problemas del sector y a entrevistas directas con usuarios
+potenciales, se identificaron oportunidades clave para mejorar la
+experiencia del usuario. Esta retroalimentación permite ajustar
+funcionalidades críticas para asegurar que la solución sea relevante,
+intuitiva y funcional.
+
+Durante este sprint, la planificación estructurada, el cumplimiento
+riguroso del Sprint Backlog y la ejecución de pruebas fueron pilares del
+progreso alcanzado. La documentación detallada de los servicios y
+funcionalidades implementadas contribuyó a mantener la trazabilidad del
+proyecto y a facilitar futuras iteraciones. El trabajo colaborativo, la
+organización interna y la adaptación ante los desafíos técnicos
+demostraron la solidez del equipo, posicionando a NavEx como una
+solución viable y competitiva dentro del mercado de gestión de
+transporte.
+
+**Recomendaciones**
+
+1.  Continuar aplicando Lean UX en las siguientes fases del desarrollo
+    para mantener una visión centrada en el usuario y asegurar una
+    evolución coherente del producto.
+
+2.  Reforzar la validación con usuarios reales a través de pruebas de
+    usabilidad y encuestas, para garantizar que cada iteración responda
+    a necesidades concretas.
+
+3.  Mantener una documentación técnica actualizada y detallada que
+    facilite la escalabilidad del sistema y permita una integración
+    fluida de nuevos miembros al equipo.
+
+4.  Fomentar la mejora continua en los procesos de trabajo en equipo,
+    incentivando espacios de retroalimentación regular y sesiones de
+    revisión colaborativa.
+
+# Video About-the-Team
+**[Link:]{.underline}**
+
+# Bibliografía
+
+- Gajewska, T. & Walczyk, D. (2023). Development of Transport Management
+  Software. *Sustainability (Multidisciplinary Digital Publishing
+  Institute)*, *15*(15), 12083.
+  [[https://doi.org/10.3390/su151512083]{.underline}](https://doi.org/10.3390/su151512083)
+
+- Gothelf, J. & Seiden, J. (2021). Lean UX, 3rd Edition. O'Railly Media,
+  Inc.
+  [[https://www.oreilly.com/library/view/lean-ux-3rd/9781098116293/]{.underline}](https://www.oreilly.com/library/view/lean-ux-3rd/9781098116293/)
+
+- He, L., Liu, S. & Shen, Z. M. (2022). Smart urban transport and
+  logistics: A business analytics perspective. *Production and
+  Operations Management*, *31*(10), 3771-3787.
+  [[https://doi.org/10.1111/poms.13775]{.underline}](https://doi.org/10.1111/poms.13775)
+
+- Instituto Nacional de Estadística e Informática. (2024). *A nivel
+  nacional el movimiento de vehículos aumentó 6,1% en abril de 2024*
+  (Nota de Prensa N°96).
+  [[https://m.inei.gob.pe/media/MenuRecursivo/noticias/nota-de-prensa-n-096-2024-inei.pdf]{.underline}](https://m.inei.gob.pe/media/MenuRecursivo/noticias/nota-de-prensa-n-096-2024-inei.pdf)
+
+- International Bank for Reconstruction and Development. (2023).
+  *Connecting to Compete, Trade Logistics in the Global Economy*. The
+  World Bank.
+  [[https://lpi.worldbank.org/sites/default/files/2023-04/LPI_2023_report_with_layout.pdf]{.underline}](https://lpi.worldbank.org/sites/default/files/2023-04/LPI_2023_report_with_layout.pdf)
+
+- International Transport Forum. (2023). *ITF Transport Outlook 2023*,
+  OECD Publishing. Paris,
+  [[https://doi.org/10.1787/b6cc9ad5-en]{.underline}](https://doi.org/10.1787/b6cc9ad5-en)
+
+- Jiao, H. & Zhang, S. (2024). Multi-objective optimization of urban
+  logistics land: a gradient-based method approach with Wuhan city as an
+  example. *International Journal of Digital Earth, 18*(1), 1 - 17.
+  [[https://doi.org/10.1080/17538947.2024.2449568]{.underline}](https://doi.org/10.1080/17538947.2024.2449568)
+
+- Keil, M., Hagemann, V. & Glock, C. (2025). Promoting healthy and safe
+  driving: Physiological and psychological evaluation of truck drivers
+  for individualized shift and route planning. *Transportation Research
+  Part F: Traffic Psychology and Behaviour, 111,* 409-434.
+  [[https://doi.org/10.1016/j.trf.2025.03.017]{.underline}](https://doi.org/10.1016/j.trf.2025.03.017)
+
+- Ministerio de Transporte y Comunicaciones. (2023). ANUARIO
+  ESTADÍSTICO 2023.
+  [[https://cdn.www.gob.pe/uploads/document/file/6778343/5871728-anuario-estadistico-2023.pdf]{.underline}](https://cdn.www.gob.pe/uploads/document/file/6778343/5871728-anuario-estadistico-2023.pdf)
+
+- Mordor Intelligence. (2024). *Análisis de participación y tamaño del
+  mercado de transporte de carga por carretera en Perú tendencias de
+  crecimiento y pronósticos (2024-2029)*. Recuperado el 11 de abril de
+  2025, de
+  [[https://www.mordorintelligence.com/es/industry-reports/peru-road-freight-transport-market]{.underline}](https://www.mordorintelligence.com/es/industry-reports/peru-road-freight-transport-market)
+
+- Nchimbi, S. A., Kisangari, M., Dida, M. A. & Barakabitze, A. A.
+  (2022). Design a Services Architecture for Mobile-Based Agro-Goods
+  Transport and Commerce System. *Mobile Information Systems*,
+  *2022*(1), 1-10.
+  [[https://doi.org/10.1155/2022/6041197]{.underline}](https://doi.org/10.1155/2022/6041197)
+
+- Patil, D., Mane, S., Biradar, S., Rankhamb, S. & Bhonsle, M. (2023).
+  *Fleet Management Mobile Application Using GPS Shortest Path*
+  \[Documento de conferencia\]. International Conference on Data
+  Intelligence and Cognitive Informatics, Tirunelveli, India.
+  [[https://link.springer.com/chapter/10.1007/978-981-99-7962-2_16]{.underline}](https://link.springer.com/chapter/10.1007/978-981-99-7962-2_16)
+
+- Patnaik, D. (2017). Needfinding: Design Research and Planning (4th
+  Edition). CreateSpace Independent Publishing Platform.
+  [[https://www.amazon.com/Needfinding-Design-Research-Planning-4th/dp/1974015580]{.underline}](https://www.amazon.com/Needfinding-Design-Research-Planning-4th/dp/1974015580)
+
+- Pouliou, A., Kehagia, F. & Meselidis, C. (2025). A Model for the Crash
+  Occurrence in Unexpected Incidents. *Transport and Telecommunication
+  Journal*, *26*(1), 33-44.
+  [[https://doi.org/10.2478/ttj-2025-0004]{.underline}](https://doi.org/10.2478/ttj-2025-0004)
+
+- SafeLink Group. (2024). ¿Cuáles son los principales problemas de
+  seguridad en el transporte de carga en Perú? SafeLink Marine.
+  Recuperado el 15 de abril de 2025, de
+  [[https://www.safelinkmexico.com/cuales-son-los-principales-problemas-de-seguridad-en-el-transporte-de-carga-en-peru/]{.underline}](https://www.safelinkmexico.com/cuales-son-los-principales-problemas-de-seguridad-en-el-transporte-de-carga-en-peru/)
+
+- Smith, P, R. & Zook, Z.(2022). Marketing Communications: Integrating
+  Online and Offline, Customer Engagement and Digital Technologies.
+  Kogan Page.
+  [[https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf]{.underline}](https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf)
+
+- Sun, P. F., Zhang, Y., Wu, X. J., Du, J. Y., Hou, R. R. & Liu, J.
+  (2024). SIMULATION AND ANALYSIS OF A PREEMPTIVE TRANSPORTATION MODEL
+  USING FLEXSIM SOFTWARE. *International Journal of Simulation
+  Modelling*, *23*(2), 335-346.
+  [[https://doi.org/10.2507/IJSIMM23-2-CO7]{.underline}](https://doi.org/10.2507/IJSIMM23-2-CO7)
+
+- Superintendencia de Transporte Terrestre de Personas, Carga y
+  Mercancías. (2023). *MEMORIA ANUAL 2023*. Ministerio de Transportes y
+  Comunicaciones.
+  [[https://cdn.www.gob.pe/uploads/document/file/7461251/6352814-memoria-anual-2023.pdf?v=1736265456]{.underline}](https://cdn.www.gob.pe/uploads/document/file/7461251/6352814-memoria-anual-2023.pdf?v=1736265456)
+
+- Superintendencia de Transporte Terrestre de Personas, Carga y
+  Mercancías. (2024). REPORTE ESTADÍSTICO N.º 05-2023: FISCALIZACIÓN CON
+  CINEMÓMETROS (Del 01 de enero al 31 de diciembre de 2023). Ministerio
+  de Transportes y Comunicaciones.
+  [[https://cdn.www.gob.pe/uploads/document/file/5784678/5137004-reporte-estadistico-n-005-2023-fiscalizacion-con-cinemometros.pdf?v=1706720388]{.underline}](https://cdn.www.gob.pe/uploads/document/file/5784678/5137004-reporte-estadistico-n-005-2023-fiscalizacion-con-cinemometros.pdf?v=1706720388)
+
+- Wheeler, A. & Meyerson, R. (2024). Designing Brand Identity: A
+  Comprehensive Guide to the World of Brands and Branding. Wiley.
+  [[https://www.amazon.com/-/es/Alina-Wheeler-ebook/dp/B0CVVNPZWG?ref\_=ast_author_mpb]{.underline}](https://www.amazon.com/-/es/Alina-Wheeler-ebook/dp/B0CVVNPZWG?ref_=ast_author_mpb)
+
+**Anexos**
+
+- **PivotalTracker-ProductBacklog:**
+
+- **Registro de Entrevistas:**
+
+- **Figma de Proyecto:**
+
+- **LandingPage:[[https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/]{.underline}](https://navex-upc-pre-1asi0732-2510-4430.github.io/upc-pre-202501-1asi0732-4430-NavCo-landing-page/)**
+
